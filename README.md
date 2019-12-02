@@ -37,13 +37,32 @@ Year|Proceeding|Title|Comment
 2011|ICIP 2011|Examplar-based inpainting based on local geometry [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6116441)|Inpainting order
 2012|TOG 2012|Combining inconsistent images using patch-based synthesis[[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.364.5147&rep=rep1&type=pdf)|Patch-based
 2014|TOG 2014|Image completion using Planar structure guidance [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/structure_completion_small.pdf)|Patch-based
-2014|ACCESS 2014|Mask optimization for image inpainting[[paper]](https://telin.ugent.be/~sanja/Papers/Inpainting/Inpainting_TIP2014_RuzicPizurica.pdf) [[code]](https://github.com/nimpy/inpynting)|Patch-based
+2014|TIP 2014|Context-aware patch-based image inpainting using markov random field modeling [[paper]](https://telin.ugent.be/~sanja/Papers/Inpainting/Inpainting_TIP2014_RuzicPizurica.pdf) [[code]](https://github.com/nimpy/inpynting)|Patch-based
 2014|TVCG 2014|High-Quality Real-Time Video Inpainting with PixMix [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6714519)|Video
 2014|SIAM 2014|Video inpainting of complex scenes [[pdf]](https://arxiv.org/pdf/1503.05528.pdf)|Video
 2015|TIP 2015|Annihilating Filter-Based Low-Rank Hankel Matrix Approach for Image Inpainting [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7127011)|
 2015|TIP 2015|Exemplar-Based Inpainting: Technical Review and New Heuristics for Better Geometric Reconstructions [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7056453)|
+2015|TVCG 2015|Diminished reality based on image inpainting considering background geometry [[paper]](library.naist.jp/dspace/bitstream/handle/10061/11030/1427_TVCG_DR_author_ver.pdf?sequence=1&isAllowed=y)|
+2015|JGO 2015|Fast algorithm for color texture image inpainting using the non-local ctv model [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs10898-015-0290-7.pdf)|Patch-based
+2016|MTA 2016|Rate-distortion optimized image compression based on image inpainting [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs11042-014-2332-4.pdf)|Patch-based
+2016|SIVP 2016|Domain-based structure-aware image inpainting [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs11760-015-0840-y.pdf)|Patch-based
+2016|SC 2016|Image inpainting algorithm based on TV model and evolutionary algorithm [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs00500-014-1547-7.pdf)|Diffusion-based
 2016|TOG 2016|Temporally coherent completion of dynamic video [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/SigAsia_2016_VideoCompletion.pdf) | Video
-
+2017|TVCG 2017|Patch-Based Image Inpainting via Two-Stage Low Rank Approximation [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7922581&tag=1)|Patch-based
+2017|TIP 2017|Depth image inpainting: Improving low rank matrix completion with low gradient regularization [[paper]](https://arxiv.org/pdf/1604.05817.pdf) [[code]](https://github.com/ZJULearning/depthInpainting)|Patch-based
+2017|MTA 2017|Exemplar-based image inpainting using svd-based approximation matrix and multi-scale analysis [[paper]](http://journal.iis.sinica.edu.tw/paper/1/100484-2.pdf?cd=7BA29DFFD1BE9BF88)|Patch-based
+2017|EURASIP 2017|Damaged region filling and evaluation by symmetrical exemplar-based image inpainting for Thangka [[paper]](https://jivp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13640-017-0186-1?site=jivp-eurasipjournals.springeropen.com)| Patch-based
+2017|TIFS 2017|Localization of diffusion-based inpainting in digital images [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7987733)|Diffusion-based
+2018|MTA 2018|Gradient-based low rank method and its application in image inpainting [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-4509-0.pdf)|Patch-based
+2018|MTA 2018|A novel patch matching algorithm for exemplar-based image inpainting [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-5077-z.pdf)|Patch-based
+2018|MTA 2018|A robust forgery detection algorithm for object removal by exemplar-based image inpainting [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-4829-0.pdf)|Patch-based
+2018|TIP 2018|Image Inpainting Using Nonlocal Texture Matching and Nonlinear Filtering [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8531678)|Patch-based
+2018|TMM 2018|Structure-guided image inpainting using homography transformation [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8352516&tag=1)|Patch-based
+2018|CC 2018|Damaged region filling by improved  criminisi image inpainting algorithm for thangka [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs10586-018-2068-4.pdf)|Patch-based
+2018|CC 2018|The research of image inpainting algorithm using self-adaptive group structure and sparse representation [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs10586-018-2323-8.pdf)|dictionary learning-based
+2018|ACCESS 2018|Sparsity-based image inpainting detection via canonical correlation analysis with low-rank constraints [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8439932)|Sparsity-based
+2019|AJSE 2019|Image Inpainting Algorithm Based on Saliency Map and Gray Entropy [[paper]](https://jivp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13640-017-0186-1)|Patch-based
+2019|CSSP 2019|Image inpainting based on fractional-order nonlinear diffusion for image reconstruction [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs00034-019-01029-w.pdf)|Diffusion-based
 
 ## Inpainting Deep-Learning-based Methods
 Year|Proceeding|Title|Comment
@@ -58,6 +77,7 @@ Year|Proceeding|Title|Comment
 2017|CVPR 2017|High-resolution image inpainting using multi-scale neural patch synthesis [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_High-Resolution_Image_Inpainting_CVPR_2017_paper.pdf) [[code]](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting)|
 2017|CVPR 2017|Generative Face Completion [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Generative_Face_Completion_CVPR_2017_paper.pdf) [[code]](https://github.com/Yijunmaverick/GenerativeFaceCompletion)|
 2017|SIGGRAPH 2017|Globally and Locally Consistent Image Completion [[pdf]](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/data/completion_sig2017.pdf) [[code]](https://github.com/satoshiiizuka/siggraph2017_inpainting)|
+2017|VC 2017|Blind inpainting using the fully convolutional neural network [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs00371-015-1190-z.pdf)|CNN-based
 2018|CVPR 2018|Generative Image Inpainting with Contextual Attention [[pdf]](https://arxiv.org/abs/1801.07892) [[code]](https://github.com/JiahuiYu/generative_inpainting)|
 2018|CVPR 2018|Natural and Effective Obfuscation by Head Inpainting [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_Natural_and_Effective_CVPR_2018_paper.pdf)|
 2018|CVPR 2018|Eye In-Painting With Exemplar Generative Adversarial Networks [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dolhansky_Eye_In-Painting_With_CVPR_2018_paper.pdf) [[code]](https://github.com/bdol/exemplar_gans)|
@@ -65,7 +85,7 @@ Year|Proceeding|Title|Comment
 2018|CVPR 2018|Disentangling Structure and Aesthetics for Style-aware Image Completion [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gilbert_Disentangling_Structure_and_CVPR_2018_paper.pdf)|
 2018|ECCV 2018|Image Inpainting for Irregular Holes Using Partial Convolutions [[pdf]](https://arxiv.org/pdf/1804.07723.pdf) [[code]](https://github.com/NVIDIA/partialconv)|
 2018|ECCV 2018| Contextual-based Image Inpainting: Infer, Match, and Translate [[pdf]](https://arxiv.org/pdf/1711.08590.pdf)|
-2018|ECCV 2018|Shift-Net: Image Inpainting via Deep Feature Rearrangement [[pdf]](https://arxiv.org/pdf/1801.09392v2.pdf) [[code]](https://github.com/Zhaoyi-Yan/Shift-Net)|
+2018|ECCV 2018|Shift-Net: Image Inpainting via Deep Feature Rearrangement [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhaoyi_Yan_Shift-Net_Image_Inpainting_ECCV_2018_paper.pdf) [[code]](https://github.com/Zhaoyi-Yan/Shift-Net)|CNN-based
 2018|NIPS 2018|Image Inpainting via Generative Multi-column Convolutional Neural Networks [[pdf]](https://arxiv.org/pdf/1810.08771.pdf) [[code]](https://github.com/shepnerd/inpainting_gmcnn)|
 2018|TOG 2018|Faceshop: Deep sketch-based face image editing [[pdf]](https://arxiv.org/pdf/1804.08972.pdf)|
 2018|ACM MM 2018|Structural inpainting [[pdf]](https://arxiv.org/pdf/1803.10348.pdf) |
@@ -76,16 +96,18 @@ Year|Proceeding|Title|Comment
 2018|ICASSP 2018|Edge-Aware Context Encoder for Image Inpainting [[pdf]](http://mirlab.org/conference_papers/International_Conference/ICASSP%202018/pdfs/0003156.pdf)|
 2018|ICPR 2018|Deep Structured Energy-Based Image Inpainting [[pdf]](https://arxiv.org/pdf/1801.07939.pdf) [[code]](https://github.com/cvlab-tohoku/DSEBImageInpainting)|
 2018|AISTATS 2019|Probabilistic Semantic Inpainting with Pixel Constrained CNNs [[pdf]](https://arxiv.org/pdf/1810.03728.pdf)|
+2018|ICRA 2018|Just-in-time reconstruction: Inpainting sparse maps using single view depth predictors as priors [[paper]](https://arxiv.org/pdf/1805.04239v1.pdf)| CNN-based
+2018|SPIC 2018|A deep learning approach to patch-based image inpainting forensics [[paper]](https://www.researchgate.net/profile/Xinshan_Zhu3/publication/325802468_A_deep_learning_approach_to_patch-based_image_inpainting_forensics/links/5d3c5fe892851cd0468c487c/A-deep-learning-approach-to-patch-based-image-inpainting-forensics.pdf)|CNN-based
 2019|ICRA 2019| Empty Cities: Image Inpainting for a Dynamic-Object-Invariant Space [[pdf]](https://arxiv.org/pdf/1809.10239.pdf)  |
 2019|AAAI 2019|Video Inpainting by Jointly Learning Temporal Structure and Spatial Details [[pdf]](https://arxiv.org/pdf/1806.08482.pdf)| Video
 2019|CVPR 2019| Pluralistic Image Completion [[pdf]](https://arxiv.org/pdf/1903.04227.pdf) [[code]](https://github.com/lyndonzheng/Pluralistic) [[project]](http://www.chuanxiaz.com/publication/pluralistic/?tdsourcetag=s_pctim_aiomsg)|
 2019|CVPR 2019| Deep Reinforcement Learning of Volume-guided Progressive View Inpainting for 3D Point Scene Completion from a Single Depth Image [[pdf]](https://arxiv.org/pdf/1903.04019.pdf)|
 2019|CVPR 2019|Foreground-aware Image Inpainting [[pdf]](https://arxiv.org/pdf/1901.05945.pdf)  |
 2019|CVPR 2019 |Privacy Protection in Street-View Panoramas using Depth and Multi-View Imagery [[pdf]](https://arxiv.org/pdf/1903.11532.pdf) |
-2019|CVPR 2019|Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting [[pdf]](https://arxiv.org/pdf/1904.07475.pdf) [[code]](https://github.com/researchmm/PEN-Net-for-Inpainting)
+2019|CVPR 2019|Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting [[pdf]](https://arxiv.org/pdf/1904.07475.pdf) [[code]](https://github.com/researchmm/PEN-Net-for-Inpainting)|
 2019|CVPR 2019|Deep Flow-Guided Video Inpainting [[pdf]](https://arxiv.org/pdf/1905.02884.pdf) [[project]](https://nbei.github.io/video-inpainting.html)| Video
 2019|CVPR 2019|Deep video inapinting [[pdf]](https://arxiv.org/pdf/1905.01639.pdf)|Video
-2019|CVPR Workshop 2019 |VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal [[pdf]](https://arxiv.org/pdf/1904.06726) | Video
+2019|CVPR Workshop 2019 |VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Chang_VORNet_Spatio-Temporally_Consistent_Video_Inpainting_for_Object_Removal_CVPRW_2019_paper.pdf)| Video
 2019|TNNLS 2019|PEPSI++: Fast and Lightweight Network for Image Inpainting [[pdf]](https://arxiv.org/pdf/1905.09010.pdf)|
 2019|IJCAI 2019|MUSICAL: Multi-Scale Image Contextual Attention Learning for Inpainting [[pdf]](https://www.ijcai.org/proceedings/2019/0520.pdf) |
 2019|IJCAI 2019|Generative Image Inpainting with Submanifold Alignment [[pdf]](https://arxiv.org/pdf/1908.00211.pdf) |
@@ -116,6 +138,7 @@ Year|Proceeding|Title|Comment
 2018|arXiv:1801.07632|High Resolution Face Completion with Multiple Controllable Attributes via Fully End-to-End Progressive Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1801.07632.pdf)|
 2018|arXiv:1803.07422|Patch-Based Image Inpainting with Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1803.07422.pdf) [[code]](https://github.com/nashory/pggan-pytorch)|
 2018|arXiv:1808.04432|X-GANs: Image Reconstruction Made Easy for Extreme Cases [[pdf]](https://arxiv.org/pdf/1808.04432.pdf)|
+2018|arXiv:1811.03911| Unsupervised Learnable Sinogram Inpainting Network (SIN) for Limited Angle CT reconstruction [[paper]](http://export.arxiv.org/pdf/1811.03911)|CNN-based
 2018|arXiv:1811.07104|On Hallucinating Context and Background Pixels from a Face Mask using Multi-scale GANs [[pdf]](https://arxiv.org/pdf/1811.07104.pdf)|
 2018|arXiv:1811.09012|Multi-View Inpainting for RGB-D Sequence [[pdf]](https://arxiv.org/pdf/1811.09012.pdf)|
 2018|arXiv:1812.01458|Deep Inception Generative network for Cognitive Image Inpainting [[pdf]](https://arxiv.org/pdf/1812.01458.pdf)|
