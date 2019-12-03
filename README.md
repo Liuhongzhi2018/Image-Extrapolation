@@ -189,3 +189,9 @@ Year|Proceeding|Title|Comment
 [ICLR 2019](https://iclr.cc/Conferences/2019/Schedule?type=Poster)
 
 [ICML 2019](https://icml.cc/Conferences/2019/Schedule?type=Poster)
+
+[AAAI 2019]( https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)
+
+[IJCAI 2019](https://www.ijcai19.org/accepted-papers.html)
+
+[ACL 2019](http://www.acl2019.org/EN/program.xhtml)
