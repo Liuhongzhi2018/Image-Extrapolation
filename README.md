@@ -175,3 +175,17 @@ Year|Proceeding|Title|Comment
 2019|arXiv:1905.12384|Coherent Semantic Attention for Image Inpainting [[paper]](https://arxiv.org/pdf/1905.12384.pdf)|CNN-based
 2019|arXiv:1905.13066|Align-and-Attend Network for Globally and Locally Coherent Video Inpainting [[pdf]](https://arxiv.org/pdf/1905.13066.pdf)| Video
 2019|arXiv:1906.00884 |Fashion Editing with Multi-scale Attention Normalization [[pdf]](https://arxiv.org/pdf/1906.00884.pdf)|
+
+# Related Link
+[ICCV2019](http://openaccess.thecvf.com/ICCV2019.py)
+
+[CVPR2019](http://openaccess.thecvf.com/CVPR2019.py)
+
+[ECCV 2018](http://openaccess.thecvf.com/ECCV2018.py)
+[ECCV 2016](https://link.springer.com/book/10.1007/978-3-319-46448-0)
+
+[NeuralPS 1988-2019](http://papers.nips.cc/)
+
+[ICLR 2019](https://iclr.cc/Conferences/2019/Schedule?type=Poster)
+
+[ICML 2019](https://icml.cc/Conferences/2019/Schedule?type=Poster)
