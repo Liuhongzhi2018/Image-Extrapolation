@@ -1,7 +1,7 @@
 # Image-Extrapolation
 What I cannot create, I do not understand.
 
-This repository is a paper list of image inpainting inspired by @1900zyh's repository [Awsome-Image-Inpainting](https://github.com/1900zyh/Awsome-Image-Inpainting) and @geekyutao's repository [Image Inpainting](https://github.com/geekyutao/Image-Inpainting).
+This repository is a paper list of image extrapolation and inpainting inspired by @1900zyh's repository [Awsome-Image-Inpainting](https://github.com/1900zyh/Awsome-Image-Inpainting) and @geekyutao's repository [Image Inpainting](https://github.com/geekyutao/Image-Inpainting).
 
 ## Extrapolation Methods
 Year|Proceeding|Title|Comment
