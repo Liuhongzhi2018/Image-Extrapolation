@@ -131,7 +131,7 @@ Year|Proceeding|Title|Comment
 2019|ACM MM 2019| Deep Fusion Network for Image Completion [[pdf]](https://arxiv.org/pdf/1904.08060.pdf) [[code]](https://github.com/hughplay/DFNet)|
 2019|ACM MM 2019| GAIN: Gradient Augmented Inpainting Network for Irregular Holes [[pdf]](https://dl.acm.org/citation.cfm?id=3350912) |
 2019|ACM MM 2019| Single-shot Semantic Image Inpainting with Densely Connected Generative Networks [[pdf]](https://dl.acm.org/citation.cfm?id=3350903) |
-2019|ICCVW 2019|EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [[pdf]](https://arxiv.org/pdf/1901.00212.pdf) [[code]](https://github.com/knazeri/edge-connect)|
+2019|ICCVW 2019|EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [[pdf]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/AIM/Nazeri_EdgeConnect_Structure_Guided_Image_Inpainting_using_Edge_Prediction_ICCVW_2019_paper.pdf) [[code]](https://github.com/knazeri/edge-connect)|
 2019|ICCV 2019|Coherent Semantic Attention for Image Inpainting [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Coherent_Semantic_Attention_for_Image_Inpainting_ICCV_2019_paper.pdf) [[code]](https://github.com/KumapowerLIU/CSA-inpainting)|
 2019|ICCV 2019|StructureFlow: Image Inpainting via Structure-aware Appearance Flow [[pdf]](https://arxiv.org/pdf/1908.03852.pdf) [[code]](https://github.com/RenYurui/StructureFlow) |
 2019|ICCV 2019|Progressive Reconstruction of Visual Structure for Image Inpainting [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Progressive_Reconstruction_of_Visual_Structure_for_Image_Inpainting_ICCV_2019_paper.pdf) [[code]](https://github.com/jingyuanli001/PRVS-Image-Inpainting) |
