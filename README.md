@@ -154,7 +154,7 @@ Year|Proceeding|Title|Comment
 2019|VISAPP 2019|Semantic image inpainting through improved Wasserstein generative adversarial networks [[paper]](https://arxiv.org/pdf/1812.01071.pdf)|GAN-based
 2020|AAAI 2020|Region Normalization for Image Inpainting [[pdf]](https://arxiv.org/abs/1911.10375) [[code]](https://github.com/geekyutao/RN)|
 
-## Inpainting ArXiv or Unpublished
+## ArXiv or Unpublished
 Year|Proceeding|Title|Comment
 --|:--:|:--:|:--
 2018|arXiv:1801.07632|High Resolution Face Completion with Multiple Controllable Attributes via Fully End-to-End Progressive Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1801.07632.pdf)|
