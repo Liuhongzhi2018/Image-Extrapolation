@@ -178,6 +178,7 @@ Year|Proceeding|Title|Comment
 2019|arXiv:1905.13066|Align-and-Attend Network for Globally and Locally Coherent Video Inpainting [[pdf]](https://arxiv.org/pdf/1905.13066.pdf)| Video
 2019|arXiv:1906.00884|Fashion Editing with Multi-scale Attention Normalization [[pdf]](https://arxiv.org/pdf/1906.00884.pdf)|
 2019|arXiv:1912.01834|Diversity-Generated Image Inpainting with Style Extraction [[paper]](https://arxiv.org/pdf/1912.01834.pdf) [[code]](https://github.com/vivitsai/SEGAN#)|GAN-based
+2019|arXiv:1912.10960|Image Outpainting and Harmonization using Generative Adversarial Networks [[paper]](https://arxiv.org/pdf/1912.10960.pdf)|GAN-based
 2019|arXiv:1910.11481|Multimodal Image Outpainting With Regularized Normalized Diversification [[paper]](https://arxiv.org/pdf/1910.11481.pdf) [[code]](https://github.com/owenzlz/Diverse_Outpaint)|GAN-based
 
 # Related Link
