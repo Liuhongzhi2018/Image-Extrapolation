@@ -15,7 +15,7 @@ Year|Proceeding|Title|Comment
 ## Inpainting Traditional Methods
 Year|Proceeding|Title|Comment
 --|:--:|:--:|:--
-2000|SIGGRAPH 2000|Image Inpainting  [[pdf]](http://slipguru.disi.unige.it/readinggroup/papers_vis/bertalmio00inpainting.pdf)  |Diffusion-based
+2000|SIGGRAPH 2000|Image Inpainting  [[pdf]](http://slipguru.disi.unige.it/readinggroup/papers_vis/bertalmio00inpainting.pdf) [[paper]](https://apps.dtic.mil/dtic/tr/fulltext/u2/a437378.pdf) |Diffusion-based
 2001|TIP 2001|Filling-in by joint interpolation of vector fields and gray levels [[pdf]](https://conservancy.umn.edu/bitstream/handle/11299/3462/1/1706.pdf)|Diffusion-based
 2001|CVPR 2001|Navier-stokes, ﬂuid dynamics, and image and video inpainting [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=990497)|
 2001|SIGGRAPH 2001|Image Quilting for Texture Synthesis and Transfer [[pdf]](https://people.eecs.berkeley.edu/~efros/research/quilting/quilting.pdf)  |
@@ -118,7 +118,7 @@ Year|Proceeding|Title|Comment
 2018|ICNC-FSKD 2018|Image Inpainting Based on Generative Adversarial Networks [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8686914)|GAN-based
 2019|ICRA 2019|Empty Cities: Image Inpainting for a Dynamic-Object-Invariant Space [[pdf]](https://arxiv.org/pdf/1809.10239.pdf)|
 2019|AAAI 2019|Video Inpainting by Jointly Learning Temporal Structure and Spatial Details [[pdf]](https://arxiv.org/pdf/1806.08482.pdf)| Video
-2019|CVPR 2019| Pluralistic Image Completion [[pdf]](https://arxiv.org/pdf/1903.04227.pdf) [[code]](https://github.com/lyndonzheng/Pluralistic) [[project]](http://www.chuanxiaz.com/publication/pluralistic/?tdsourcetag=s_pctim_aiomsg)| Diversity
+2019|CVPR 2019| Pluralistic Image Completion [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Pluralistic_Image_Completion_CVPR_2019_paper.pdf) [[code]](https://github.com/lyndonzheng/Pluralistic) [[project]](http://www.chuanxiaz.com/publication/pluralistic/?tdsourcetag=s_pctim_aiomsg)| Diversity
 2019|CVPR 2019| Deep Reinforcement Learning of Volume-guided Progressive View Inpainting for 3D Point Scene Completion from a Single Depth Image [[pdf]](https://arxiv.org/pdf/1903.04019.pdf)|
 2019|CVPR 2019|Foreground-aware Image Inpainting [[pdf]](https://arxiv.org/pdf/1901.05945.pdf)  |
 2019|CVPR 2019 |Privacy Protection in Street-View Panoramas using Depth and Multi-View Imagery [[pdf]](https://arxiv.org/pdf/1903.11532.pdf) |
@@ -166,6 +166,7 @@ Year|Proceeding|Title|Comment
 2018|arXiv:1811.07104|On Hallucinating Context and Background Pixels from a Face Mask using Multi-scale GANs [[pdf]](https://arxiv.org/pdf/1811.07104.pdf)|
 2018|arXiv:1811.09012|Multi-View Inpainting for RGB-D Sequence [[pdf]](https://arxiv.org/pdf/1811.09012.pdf)|
 2018|arXiv:1812.01458|Deep Inception Generative network for Cognitive Image Inpainting [[pdf]](https://arxiv.org/pdf/1812.01458.pdf)|
+2018|arXiv:1808.08483|Painting Outside the Box: Image Outpainting with GANs [[paper]](https://arxiv.org/pdf/1808.08483.pdf)|GAN-based
 2019|arXiv:1901.03396|Detecting Overfitting of Deep Generative Networks via Latent Recovery [[pdf]](https://arxiv.org/pdf/1901.03396.pdf)|
 2019|arXiv:1902.00301|Deep Hyperspectral Prior: Denoising, Inpainting, Super-Resolution [[paper]](https://arxiv.org/pdf/1902.00301)|CNN-based
 2019|arXiv:1902.09225|Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation [[pdf]](https://arxiv.org/pdf/1902.09225.pdf)|
@@ -179,7 +180,7 @@ Year|Proceeding|Title|Comment
 2019|arXiv:1905.13066|Align-and-Attend Network for Globally and Locally Coherent Video Inpainting [[pdf]](https://arxiv.org/pdf/1905.13066.pdf)| Video
 2019|arXiv:1906.00884|Fashion Editing with Multi-scale Attention Normalization [[pdf]](https://arxiv.org/pdf/1906.00884.pdf)|
 2019|arXiv:1912.01834|Diversity-Generated Image Inpainting with Style Extraction [[paper]](https://arxiv.org/pdf/1912.01834.pdf) [[code]](https://github.com/vivitsai/SEGAN#)|GAN-based
-2018|arXiv:1808.08483|Painting Outside the Box: Image Outpainting with GANs [[paper]](https://arxiv.org/pdf/1808.08483.pdf)|GAN-based
+2019|arXiv:1912.11711|Controllable and Progressive Image Extrapolation [[paper]](https://arxiv.org/pdf/1912.11711.pdf)|GAN-based
 2020|arXiv:1912.10960v2|Image Outpainting and Harmonization using Generative Adversarial Networks [[paper]](https://arxiv.org/pdf/1912.10960v2.pdf) [[code]](https://github.com/basilevh/image-outpainting)|GAN-based
 
 
