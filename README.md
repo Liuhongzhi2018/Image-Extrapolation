@@ -1,7 +1,7 @@
 # Image-Extrapolation
 What I cannot create, I do not understand.
 
-This repository is a paper list of image extrapolation and inpainting inspired by @1900zyh's repository [Awsome-Image-Inpainting](https://github.com/1900zyh/Awsome-Image-Inpainting) and @geekyutao's repository [Image Inpainting](https://github.com/geekyutao/Image-Inpainting).
+This repository is a paper list of image extrapolation and inpainting inspired by @1900zyh's repository [Awsome-Image-Inpainting](https://github.com/1900zyh/Awsome-Image-Inpainting) and @geekyutao's repository [Image Inpainting](https://github.com/geekyutao/Image-Inpainting). As a conditional generation task, I learn from @xiaweihao's repository [awesome-image-translation](https://github.com/xiaweihao/awesome-image-translation).
 
 ## Extrapolation Methods
 Year|Proceeding|Title|Comment
@@ -11,61 +11,6 @@ Year|Proceeding|Title|Comment
 2019|ICCV 2019|COCO-GAN: Generation by Parts via Conditional Coordinating [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lin_COCO-GAN_Generation_by_Parts_via_Conditional_Coordinating_ICCV_2019_paper.pdf) [[official code]](https://github.com/hubert0527/COCO-GAN) [[unofficial code]](https://github.com/shaanrockz/COCO-GAN)|
 2019|CVPR 2019|Wide-Context Semantic Image Extrapolation [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Wide-Context_Semantic_Image_Extrapolation_CVPR_2019_paper.pdf) [[code]](https://github.com/shepnerd/outpainting_srn)|
 2020|WACV 2020| Multimodal Image Outpainting with Regularized Normalized Diversification [[paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Multimodal_Image_Outpainting_With_Regularized_Normalized_Diversification_WACV_2020_paper.pdf) [[code]](https://github.com/owenzlz/DiverseOutpaint)|GAN-based
-
-## Inpainting Traditional Methods
-Year|Proceeding|Title|Comment
---|:--:|:--:|:--
-2000|SIGGRAPH 2000|Image Inpainting  [[pdf]](http://slipguru.disi.unige.it/readinggroup/papers_vis/bertalmio00inpainting.pdf) [[paper]](https://apps.dtic.mil/dtic/tr/fulltext/u2/a437378.pdf) |Diffusion-based
-2001|TIP 2001|Filling-in by joint interpolation of vector fields and gray levels [[pdf]](https://conservancy.umn.edu/bitstream/handle/11299/3462/1/1706.pdf)|Diffusion-based
-2001|CVPR 2001|Navier-stokes, ﬂuid dynamics, and image and video inpainting [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=990497)|
-2001|SIGGRAPH 2001|Image Quilting for Texture Synthesis and Transfer [[pdf]](https://people.eecs.berkeley.edu/~efros/research/quilting/quilting.pdf)  |
-2001|SIGGRAPH 2001|Synthesizing Natural Textures [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.359.8241&rep=rep1&type=pdf)|
-2002|EJAM 2002|Digital inpainting based on the mumford–shah–euler image model [[pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/26ACC4694C7F064B6F40D55C09ACA9A1/S0956792502004904a.pdf/digital_inpainting_based_on_the_mumfordshaheuler_image_model.pdf)  |Diffusion-based
-2003|CVPR 2003| Object removal by exemplar-based inpainting [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1211538)|
-2003|TIP 2003|Simultaneous structure and texture image inpainting [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1217265)|Diffusion-based
-2003|TIP 2003|Structure and Texture Filling-In of Missing Image Blocks in Wireless Transmission and Compression Applications [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1197835)|
-2003|ICCV 2003|Learning How to Inpaint from Global Image Statistics [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1238360)|Diffusion-based
-2003|TOG 2003|Fragment-based image completion [[pdf]](http://delivery.acm.org/10.1145/890000/882267/p303-drori.pdf?ip=222.195.92.10&id=882267&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EA4F9C023AC60E700%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1553430113_8d3cc7f5adde2fb3894043de791d9150) | Patch-based
-2004|TIP 2004|Region Filling and Object Removal by Exemplar-Based Image Inpainting [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/criminisi_tip2004.pdf)|Patch-based; Inpainting order
-2004|TPAMI 2004|Space-Time Video Completion [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1315022) |
-2005|SIGGRAPH 2005|Image Completion with Structure Propagation [[pdf]](http://jiansun.org/papers/ImageCompletion_SIGGRAPH05.pdf)|Patch-based
-2006|ISCS 2006|Image Compression with Structure Aware Inpainting [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1692960)|
-2006|JIVP 2006|Spatio-temporal consistent depth-image-based rendering using layered depth image and inpainting [[paper]](https://link.springer.com/content/pdf/10.1186/s13640-016-0109-6.pdf)| Object removal
-2007|TOG 2007| Scene completion using millions of photographs [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.299.518&rep=rep1&type=pdf)|
-2007|CSVT 2007|Image Compression With Edge-Based Inpainting [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/inpainting_csvt_07.pdf)|Diffusion-based
-2008|CVPR 2008|Summarizing Visual Data Using Bidirectional Similarity [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4587842)|
-2009|SIGGRAPH 2009|PatchMatch: a randomized correspondence algorithm for structural image editing [[pdf]](http://www.faculty.idc.ac.il/arik/seminar2009/papers/patchMatch.pdf)  |Patch-based
-2010| TIP 2010|Image inpainting by patch propagation using patch sparsity [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5404308) |Patch-based
-2011|FTCGV 2011|Structured learning and prediction in computer vision [[pdf]](http://pub.ist.ac.at/~chl/papers/nowozin-fnt2011.pdf)|
-2011|ICIP 2011|Examplar-based inpainting based on local geometry [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6116441)|Inpainting order
-2012|TOG 2012|Combining inconsistent images using patch-based synthesis[[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.364.5147&rep=rep1&type=pdf)|Patch-based
-2014|TOG 2014|Image completion using Planar structure guidance [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/structure_completion_small.pdf)|Patch-based
-2014|TIP 2014|Context-aware patch-based image inpainting using markov random field modeling [[paper]](https://telin.ugent.be/~sanja/Papers/Inpainting/Inpainting_TIP2014_RuzicPizurica.pdf) [[code]](https://github.com/nimpy/inpynting)|Patch-based
-2014|TVCG 2014|High-Quality Real-Time Video Inpainting with PixMix [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6714519)|Video
-2014|SIAM 2014|Video inpainting of complex scenes [[pdf]](https://arxiv.org/pdf/1503.05528.pdf)|Video
-2015|TIP 2015|Annihilating Filter-Based Low-Rank Hankel Matrix Approach for Image Inpainting [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7127011)|
-2015|TIP 2015|Exemplar-Based Inpainting: Technical Review and New Heuristics for Better Geometric Reconstructions [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7056453)|
-2015|TVCG 2015|Diminished reality based on image inpainting considering background geometry [[paper]](library.naist.jp/dspace/bitstream/handle/10061/11030/1427_TVCG_DR_author_ver.pdf?sequence=1&isAllowed=y)|
-2015|JGO 2015|Fast algorithm for color texture image inpainting using the non-local ctv model [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs10898-015-0290-7.pdf)|Patch-based
-2016|MTA 2016|Rate-distortion optimized image compression based on image inpainting [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs11042-014-2332-4.pdf)|Patch-based
-2016|SIVP 2016|Domain-based structure-aware image inpainting [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs11760-015-0840-y.pdf)|Patch-based
-2016|SC 2016|Image inpainting algorithm based on TV model and evolutionary algorithm [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs00500-014-1547-7.pdf)|Diffusion-based
-2016|TOG 2016|Temporally coherent completion of dynamic video [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/SigAsia_2016_VideoCompletion.pdf) | Video
-2017|TVCG 2017|Patch-Based Image Inpainting via Two-Stage Low Rank Approximation [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7922581&tag=1)|Patch-based
-2017|TIP 2017|Depth image inpainting: Improving low rank matrix completion with low gradient regularization [[paper]](https://arxiv.org/pdf/1604.05817.pdf) [[code]](https://github.com/ZJULearning/depthInpainting)|Patch-based
-2017|MTA 2017|Exemplar-based image inpainting using svd-based approximation matrix and multi-scale analysis [[paper]](http://journal.iis.sinica.edu.tw/paper/1/100484-2.pdf?cd=7BA29DFFD1BE9BF88)|Patch-based
-2017|EURASIP 2017|Damaged region filling and evaluation by symmetrical exemplar-based image inpainting for Thangka [[paper]](https://jivp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13640-017-0186-1?site=jivp-eurasipjournals.springeropen.com)| Patch-based
-2017|TIFS 2017|Localization of diffusion-based inpainting in digital images [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7987733)|Diffusion-based
-2018|MTA 2018|Gradient-based low rank method and its application in image inpainting [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-4509-0.pdf)|Patch-based
-2018|MTA 2018|A novel patch matching algorithm for exemplar-based image inpainting [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-5077-z.pdf)|Patch-based
-2018|MTA 2018|A robust forgery detection algorithm for object removal by exemplar-based image inpainting [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-4829-0.pdf)|Patch-based
-2018|TIP 2018|Image Inpainting Using Nonlocal Texture Matching and Nonlinear Filtering [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8531678)|Patch-based
-2018|TMM 2018|Structure-guided image inpainting using homography transformation [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8352516&tag=1)|Patch-based
-2018|CC 2018|Damaged region filling by improved  criminisi image inpainting algorithm for thangka [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs10586-018-2068-4.pdf)|Patch-based
-2018|CC 2018|The research of image inpainting algorithm using self-adaptive group structure and sparse representation [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs10586-018-2323-8.pdf)|dictionary learning-based
-2018|ACCESS 2018|Sparsity-based image inpainting detection via canonical correlation analysis with low-rank constraints [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8439932)|Sparsity-based
-2019|AJSE 2019|Image Inpainting Algorithm Based on Saliency Map and Gray Entropy [[paper]](https://jivp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13640-017-0186-1)|Patch-based
-2019|CSSP 2019|Image inpainting based on fractional-order nonlinear diffusion for image reconstruction [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs00034-019-01029-w.pdf)|Diffusion-based
 
 ## Inpainting Deep-Learning-based Methods
 Year|Proceeding|Title|Comment
@@ -155,6 +100,62 @@ Year|Proceeding|Title|Comment
 2019|PRL 2019|Peeking behind objects: Layered depth prediction from a single image [[paper]](https://pdf.sciencedirectassets.com/271524/1-s2.0-S0167865519X00070/1-s2.0-S0167865518307062/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIEas0rIXbRvpR%2F8YIexwuPgWeFlHGpRr3D2MjLRvhUVxAiEA4drtrbw%2F2uecLwYZPoUFkvSWxleGyfBPCb6Eozy4mCUq0AIILhACGgwwNTkwMDM1NDY4NjUiDC6hG7h8xG8OlQY5GyqtAuEya3nF8UprJvazulD3P2PQiMEDGDjtf7BWHluWZhdIu5IXXXoa%2FDv639hzI6WW8BZ3KzDJFIezhBGjUrMpJbjjh4nUxMGrceyk0fr4QAzK3XYc5i3DmnDr7bV%2FASge5XtXbXWbDUxLBjUMzX0rdacAQy2KN9RR155%2FNszUkhAksuJR%2B%2F8CYTCzDPLJQmmJKC6Yj3bP3CLuDNagPnfbi13EZKh%2B0c0ASKBCDhJ8CcoNOrcmD4CVI%2B3JMVrgEMu8MXuj00603f3WScV52qyhU2Z4cF4btxxbJlH1iaR4Hp1SkXNYvzrl7Y8LlR%2BzOmBMAbCCJ9fZyKuF%2BI3M%2F8X%2B7Z4%2F3LB9Ga0l8%2Fw4%2BHIXBDvGuw9k3cJI66%2F4Vrs0C51lSfBymHM%2FephUCocRtw8wva%2BZ7wU6zwI0EuuKkCqrNuAHu2TcjeLz3nT31%2FIdW1GmvipgmkD%2B2%2Buzc87nZG1qmSHFMcqXkFt%2FRwIBvEyR%2FjTJFhPIcwhM1SWbyiNNbwN2PQl926On%2BYljMmuhDvY01CNO3ZcCUTpef1GpWKeaJmAXpxS0Fo%2FyOVIoTKzmgnaOPcPVmgiwXFlni0w0vXmXvSwjHdC7wx%2Fe0JX57Df3d%2Boi5tv8akD2H2QJH1dfWWVKkv26wtgPgONqYa2xLGocJO79HtuxGog6PtnTVTu4aMpIG41fMwVZ3geuody%2BOqguedlXEB5hfXjkxsryvTiKArqwEqcTsvVm5ZYMIsbCQ2db7Bsa7Ya7soN2SEmL0japYzV07B%2ByxlCRIO65yx9AZwZySnOr7lf%2F41UiDuCmCawsHby5zbRwmXxtxe7moriC%2BrNk3kfeBEoDUc0EzygK%2Blx0kPgLiQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20191203T134157Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3MBEQ2OK%2F20191203%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c3d4baf4280720e1821f048d71d7681d65f6e8c6bfd9d263af1f021602c235da&hash=23d56d32d76e6194f5b8f66d2762a6d2399a89ae91d14a4a5936be7d1cc1e23b&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0167865518307062&tid=spdf-30a9ce34-0fa1-4332-972c-4fc28780ea76&sid=bf32171d5938c4482c9ba4c482e4d6e21e87gxrqa&type=client)|GAN-based
 2019|VISAPP 2019|Semantic image inpainting through improved Wasserstein generative adversarial networks [[paper]](https://arxiv.org/pdf/1812.01071.pdf)|GAN-based
 2020|AAAI 2020|Region Normalization for Image Inpainting [[pdf]](https://arxiv.org/abs/1911.10375) [[code]](https://github.com/geekyutao/RN)|
+
+
+## Inpainting Traditional Methods
+Year|Proceeding|Title|Comment
+--|:--:|:--:|:--
+2000|SIGGRAPH 2000|Image Inpainting  [[pdf]](http://slipguru.disi.unige.it/readinggroup/papers_vis/bertalmio00inpainting.pdf) [[paper]](https://apps.dtic.mil/dtic/tr/fulltext/u2/a437378.pdf) |Diffusion-based
+2001|TIP 2001|Filling-in by joint interpolation of vector fields and gray levels [[pdf]](https://conservancy.umn.edu/bitstream/handle/11299/3462/1/1706.pdf)|Diffusion-based
+2001|CVPR 2001|Navier-stokes, ﬂuid dynamics, and image and video inpainting [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=990497)|
+2001|SIGGRAPH 2001|Image Quilting for Texture Synthesis and Transfer [[pdf]](https://people.eecs.berkeley.edu/~efros/research/quilting/quilting.pdf)  |
+2001|SIGGRAPH 2001|Synthesizing Natural Textures [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.359.8241&rep=rep1&type=pdf)|
+2002|EJAM 2002|Digital inpainting based on the mumford–shah–euler image model [[pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/26ACC4694C7F064B6F40D55C09ACA9A1/S0956792502004904a.pdf/digital_inpainting_based_on_the_mumfordshaheuler_image_model.pdf)  |Diffusion-based
+2003|CVPR 2003| Object removal by exemplar-based inpainting [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1211538)|
+2003|TIP 2003|Simultaneous structure and texture image inpainting [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1217265)|Diffusion-based
+2003|TIP 2003|Structure and Texture Filling-In of Missing Image Blocks in Wireless Transmission and Compression Applications [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1197835)|
+2003|ICCV 2003|Learning How to Inpaint from Global Image Statistics [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1238360)|Diffusion-based
+2003|TOG 2003|Fragment-based image completion [[pdf]](http://delivery.acm.org/10.1145/890000/882267/p303-drori.pdf?ip=222.195.92.10&id=882267&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EA4F9C023AC60E700%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1553430113_8d3cc7f5adde2fb3894043de791d9150) | Patch-based
+2004|TIP 2004|Region Filling and Object Removal by Exemplar-Based Image Inpainting [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/criminisi_tip2004.pdf)|Patch-based; Inpainting order
+2004|TPAMI 2004|Space-Time Video Completion [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1315022) |
+2005|SIGGRAPH 2005|Image Completion with Structure Propagation [[pdf]](http://jiansun.org/papers/ImageCompletion_SIGGRAPH05.pdf)|Patch-based
+2006|ISCS 2006|Image Compression with Structure Aware Inpainting [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1692960)|
+2006|JIVP 2006|Spatio-temporal consistent depth-image-based rendering using layered depth image and inpainting [[paper]](https://link.springer.com/content/pdf/10.1186/s13640-016-0109-6.pdf)| Object removal
+2007|TOG 2007| Scene completion using millions of photographs [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.299.518&rep=rep1&type=pdf)|
+2007|CSVT 2007|Image Compression With Edge-Based Inpainting [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/inpainting_csvt_07.pdf)|Diffusion-based
+2008|CVPR 2008|Summarizing Visual Data Using Bidirectional Similarity [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4587842)|
+2009|SIGGRAPH 2009|PatchMatch: a randomized correspondence algorithm for structural image editing [[pdf]](http://www.faculty.idc.ac.il/arik/seminar2009/papers/patchMatch.pdf)  |Patch-based
+2010| TIP 2010|Image inpainting by patch propagation using patch sparsity [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5404308) |Patch-based
+2011|FTCGV 2011|Structured learning and prediction in computer vision [[pdf]](http://pub.ist.ac.at/~chl/papers/nowozin-fnt2011.pdf)|
+2011|ICIP 2011|Examplar-based inpainting based on local geometry [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6116441)|Inpainting order
+2012|TOG 2012|Combining inconsistent images using patch-based synthesis[[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.364.5147&rep=rep1&type=pdf)|Patch-based
+2014|TOG 2014|Image completion using Planar structure guidance [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/structure_completion_small.pdf)|Patch-based
+2014|TIP 2014|Context-aware patch-based image inpainting using markov random field modeling [[paper]](https://telin.ugent.be/~sanja/Papers/Inpainting/Inpainting_TIP2014_RuzicPizurica.pdf) [[code]](https://github.com/nimpy/inpynting)|Patch-based
+2014|TVCG 2014|High-Quality Real-Time Video Inpainting with PixMix [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6714519)|Video
+2014|SIAM 2014|Video inpainting of complex scenes [[pdf]](https://arxiv.org/pdf/1503.05528.pdf)|Video
+2015|TIP 2015|Annihilating Filter-Based Low-Rank Hankel Matrix Approach for Image Inpainting [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7127011)|
+2015|TIP 2015|Exemplar-Based Inpainting: Technical Review and New Heuristics for Better Geometric Reconstructions [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7056453)|
+2015|TVCG 2015|Diminished reality based on image inpainting considering background geometry [[paper]](library.naist.jp/dspace/bitstream/handle/10061/11030/1427_TVCG_DR_author_ver.pdf?sequence=1&isAllowed=y)|
+2015|JGO 2015|Fast algorithm for color texture image inpainting using the non-local ctv model [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs10898-015-0290-7.pdf)|Patch-based
+2016|MTA 2016|Rate-distortion optimized image compression based on image inpainting [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs11042-014-2332-4.pdf)|Patch-based
+2016|SIVP 2016|Domain-based structure-aware image inpainting [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs11760-015-0840-y.pdf)|Patch-based
+2016|SC 2016|Image inpainting algorithm based on TV model and evolutionary algorithm [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs00500-014-1547-7.pdf)|Diffusion-based
+2016|TOG 2016|Temporally coherent completion of dynamic video [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/SigAsia_2016_VideoCompletion.pdf) | Video
+2017|TVCG 2017|Patch-Based Image Inpainting via Two-Stage Low Rank Approximation [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7922581&tag=1)|Patch-based
+2017|TIP 2017|Depth image inpainting: Improving low rank matrix completion with low gradient regularization [[paper]](https://arxiv.org/pdf/1604.05817.pdf) [[code]](https://github.com/ZJULearning/depthInpainting)|Patch-based
+2017|MTA 2017|Exemplar-based image inpainting using svd-based approximation matrix and multi-scale analysis [[paper]](http://journal.iis.sinica.edu.tw/paper/1/100484-2.pdf?cd=7BA29DFFD1BE9BF88)|Patch-based
+2017|EURASIP 2017|Damaged region filling and evaluation by symmetrical exemplar-based image inpainting for Thangka [[paper]](https://jivp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13640-017-0186-1?site=jivp-eurasipjournals.springeropen.com)| Patch-based
+2017|TIFS 2017|Localization of diffusion-based inpainting in digital images [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7987733)|Diffusion-based
+2018|MTA 2018|Gradient-based low rank method and its application in image inpainting [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-4509-0.pdf)|Patch-based
+2018|MTA 2018|A novel patch matching algorithm for exemplar-based image inpainting [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-5077-z.pdf)|Patch-based
+2018|MTA 2018|A robust forgery detection algorithm for object removal by exemplar-based image inpainting [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-4829-0.pdf)|Patch-based
+2018|TIP 2018|Image Inpainting Using Nonlocal Texture Matching and Nonlinear Filtering [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8531678)|Patch-based
+2018|TMM 2018|Structure-guided image inpainting using homography transformation [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8352516&tag=1)|Patch-based
+2018|CC 2018|Damaged region filling by improved  criminisi image inpainting algorithm for thangka [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs10586-018-2068-4.pdf)|Patch-based
+2018|CC 2018|The research of image inpainting algorithm using self-adaptive group structure and sparse representation [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs10586-018-2323-8.pdf)|dictionary learning-based
+2018|ACCESS 2018|Sparsity-based image inpainting detection via canonical correlation analysis with low-rank constraints [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8439932)|Sparsity-based
+2019|AJSE 2019|Image Inpainting Algorithm Based on Saliency Map and Gray Entropy [[paper]](https://jivp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13640-017-0186-1)|Patch-based
+2019|CSSP 2019|Image inpainting based on fractional-order nonlinear diffusion for image reconstruction [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs00034-019-01029-w.pdf)|Diffusion-based
 
 ## ArXiv or Unpublished
 Year|Proceeding|Title|Comment
