@@ -6,11 +6,11 @@ This repository is a paper list of image extrapolation and inpainting inspired b
 ## Extrapolation Methods
 Year|Proceeding|Title|Comment
 --|:--:|:--:|:--
+2020|WACV 2020| Multimodal Image Outpainting with Regularized Normalized Diversification [[paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Multimodal_Image_Outpainting_With_Regularized_Normalized_Diversification_WACV_2020_paper.pdf) [[code]](https://github.com/owenzlz/DiverseOutpaint)|GAN-based
 2019|ICCV 2019|Boundless: Generative Adversarial Networks for Image Extension [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Teterwak_Boundless_Generative_Adversarial_Networks_for_Image_Extension_ICCV_2019_paper.pdf) [[code]](https://github.com/recong/Boundless-in-Pytorch)|
 2019|ICCV 2019|Very Long Natural Scenery Image Prediction by Outpainting [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Very_Long_Natural_Scenery_Image_Prediction_by_Outpainting_ICCV_2019_paper.pdf) [[code]](https://github.com/z-x-yang/NS-Outpainting)|LSTM
 2019|ICCV 2019|COCO-GAN: Generation by Parts via Conditional Coordinating [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lin_COCO-GAN_Generation_by_Parts_via_Conditional_Coordinating_ICCV_2019_paper.pdf) [[official code]](https://github.com/hubert0527/COCO-GAN) [[unofficial code]](https://github.com/shaanrockz/COCO-GAN)|
 2019|CVPR 2019|Wide-Context Semantic Image Extrapolation [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Wide-Context_Semantic_Image_Extrapolation_CVPR_2019_paper.pdf) [[code]](https://github.com/shepnerd/outpainting_srn)|
-2020|WACV 2020| Multimodal Image Outpainting with Regularized Normalized Diversification [[paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Multimodal_Image_Outpainting_With_Regularized_Normalized_Diversification_WACV_2020_paper.pdf) [[code]](https://github.com/owenzlz/DiverseOutpaint)|GAN-based
 
 ## Inpainting Deep-Learning-based Methods
 Year|Proceeding|Title|Comment
