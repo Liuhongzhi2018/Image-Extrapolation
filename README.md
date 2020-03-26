@@ -3,7 +3,7 @@ What I cannot create, I do not understand.
 
 This repository is a paper list of image extrapolation and inpainting inspired by @1900zyh's repository [Awsome-Image-Inpainting](https://github.com/1900zyh/Awsome-Image-Inpainting) and @geekyutao's repository [Image Inpainting](https://github.com/geekyutao/Image-Inpainting). As a conditional generation task, I learn from @xiaweihao's repository [awesome-image-translation](https://github.com/xiaweihao/awesome-image-translation).
 
-## Extrapolation Methods
+## Deep-Learning-based Extrapolation Methods
 Year|Proceeding|Title|Comment
 --|:--:|:--:|:--
 2020|WACV 2020| Multimodal Image Outpainting with Regularized Normalized Diversification [[paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Multimodal_Image_Outpainting_With_Regularized_Normalized_Diversification_WACV_2020_paper.pdf) [[code]](https://github.com/owenzlz/DiverseOutpaint)|GAN-based
@@ -12,6 +12,20 @@ Year|Proceeding|Title|Comment
 2019|ICCV 2019|COCO-GAN: Generation by Parts via Conditional Coordinating [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lin_COCO-GAN_Generation_by_Parts_via_Conditional_Coordinating_ICCV_2019_paper.pdf) [[official code]](https://github.com/hubert0527/COCO-GAN) [[unofficial code]](https://github.com/shaanrockz/COCO-GAN)|
 2019|CVPR 2019|Wide-Context Semantic Image Extrapolation [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Wide-Context_Semantic_Image_Extrapolation_CVPR_2019_paper.pdf) [[code]](https://github.com/shepnerd/outpainting_srn)|
 2018|ECCV 2018|Unsupervised Holistic Image Generation from Key Local Patches [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Donghoon_Lee_Unsupervised_holistic_image_ECCV_2018_paper.pdf) [[code]](https://github.com/hellbell/KeyPatchGan)|GAN-based
+
+## Traditional Extrapolation Methods
+Year|Proceeding|Title|Comment
+--|:--:|:--:|:--
+2003|ACM TOG 2003|Poisson Image Editing [[paper]](http://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf)|
+2007|ACM TOG 2007|Seam Carving for Content-Aware Image Resizing [[paper]](https://www.win.tue.nl/~wstahw/edu/2IV05/seamcarving.pdf)|
+2008|CVPRW 2008|Creating and Exploring a Large Photorealistic Virtual Space  [[paper]](http://people.csail.mit.edu/biliana/papers/pieee2009/pieee2009.pdf) [[paper]](https://www.di.ens.fr/~josef/publications/sivic08a.pdf)|
+2009|ACM TOG 2009| PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing [[paper]](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/patchmatch.pdf)|
+2012|SIGGRAPH 2012| Quality Prediction for Image Completion [[paper]](http://johanneskopf.de/publications/completion/completion.pdf)|
+2013|CVPR 2013| FrameBreak: Dramatic Image Extrapolation by Guided Shift-Maps [[paper]](http://openaccess.thecvf.com/content_cvpr_2013/papers/Zhang_FrameBreak_Dramatic_Image_2013_CVPR_paper.pdf) [[code]](https://github.com/parvparkhiya/Dramatic_Image_Extrapolation_Implementation/)|
+2014|ECCV 2014| Photo uncrop [[paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-10599-4_2.pdf) [[code]](https://github.com/abhinavs95/photo-uncrop)|
+2014|ACM TOG 2014| BiggerPicture: data-driven image extrapolation using graph matching [[paper]](http://orca.cf.ac.uk/67868/1/biggerpicture_compressed.pdf)|
+
+
 
 ## Inpainting Deep-Learning-based Methods
 Year|Proceeding|Title|Comment
