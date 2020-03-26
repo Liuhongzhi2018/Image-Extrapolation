@@ -140,12 +140,14 @@ Year|Proceeding|Title|Comment
 2006|JIVP 2006|Spatio-temporal consistent depth-image-based rendering using layered depth image and inpainting [[paper]](https://link.springer.com/content/pdf/10.1186/s13640-016-0109-6.pdf)| Object removal
 2007|TOG 2007| Scene completion using millions of photographs [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.299.518&rep=rep1&type=pdf)|
 2007|CSVT 2007|Image Compression With Edge-Based Inpainting [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/inpainting_csvt_07.pdf)|Diffusion-based
+2007|TPAMI 2007|Space-Time Video Completion [[pdf]](http://www.wisdom.weizmann.ac.il/~vision/VideoCompletion/SpaceTimeCompletion.pdf)| video
 2008|CVPR 2008|Summarizing Visual Data Using Bidirectional Similarity [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4587842)|
 2009|SIGGRAPH 2009|PatchMatch: a randomized correspondence algorithm for structural image editing [[pdf]](http://www.faculty.idc.ac.il/arik/seminar2009/papers/patchMatch.pdf)  |Patch-based
 2010| TIP 2010|Image inpainting by patch propagation using patch sparsity [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5404308) |Patch-based
 2011|FTCGV 2011|Structured learning and prediction in computer vision [[pdf]](http://pub.ist.ac.at/~chl/papers/nowozin-fnt2011.pdf)|
 2011|ICIP 2011|Examplar-based inpainting based on local geometry [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6116441)|Inpainting order
-2012|TOG 2012|Combining inconsistent images using patch-based synthesis[[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.364.5147&rep=rep1&type=pdf)|Patch-based
+2012|TOG 2012|Combining inconsistent images using patch-based synthesis [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.364.5147&rep=rep1&type=pdf)|Patch-based
+2012|ACM TOG 2012|Image Melding: Combining Inconsistent Images using Patch-based Synthesis [[pdf]](https://www.ece.ucsb.edu/~psen/Papers/SIGGRAPH12_ImageMelding.pdf)|Patch-based
 2014|TOG 2014|Image completion using Planar structure guidance [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/structure_completion_small.pdf)|Patch-based
 2014|TIP 2014|Context-aware patch-based image inpainting using markov random field modeling [[paper]](https://telin.ugent.be/~sanja/Papers/Inpainting/Inpainting_TIP2014_RuzicPizurica.pdf) [[code]](https://github.com/nimpy/inpynting)|Patch-based
 2014|TVCG 2014|High-Quality Real-Time Video Inpainting with PixMix [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6714519)|Video
