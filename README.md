@@ -13,6 +13,7 @@ Year|Proceeding|Title|Comment
 2019|SIGGRAPH 2019|Structure-Aware Image Expansion with Global Attention [[paper]](https://dl.acm.org/doi/abs/10.1145/3355088.3365161)|
 2019|CVPR 2019|Wide-Context Semantic Image Extrapolation [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Wide-Context_Semantic_Image_Extrapolation_CVPR_2019_paper.pdf) [[code]](https://github.com/shepnerd/outpainting_srn)|
 2018|ECCV 2018|Unsupervised Holistic Image Generation from Key Local Patches [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Donghoon_Lee_Unsupervised_holistic_image_ECCV_2018_paper.pdf) [[code]](https://github.com/hellbell/KeyPatchGan)|GAN-based
+2018|arXiv:1808.08483|Painting Outside the Box: Image Outpainting with GANs [[paper]](https://arxiv.org/pdf/1808.08483.pdf)|GAN-based
 
 ## Traditional Extrapolation Methods
 Year|Proceeding|Title|Comment
@@ -152,6 +153,7 @@ Year|Proceeding|Title|Comment
 2012|ACM TOG 2012|Image Melding: Combining Inconsistent Images using Patch-based Synthesis [[pdf]](https://www.ece.ucsb.edu/~psen/Papers/SIGGRAPH12_ImageMelding.pdf)|Patch-based
 2014|TOG 2014|Image completion using Planar structure guidance [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/structure_completion_small.pdf)|Patch-based
 2014|TIP 2014|Context-aware patch-based image inpainting using markov random field modeling [[paper]](https://telin.ugent.be/~sanja/Papers/Inpainting/Inpainting_TIP2014_RuzicPizurica.pdf) [[code]](https://github.com/nimpy/inpynting)|Patch-based
+2014|TPAMI 2014| Image Completion Approaches Using the Statistics of Similar Patches [[paper]](http://kaiminghe.com/publications/pami14completion.pdf)|
 2014|TVCG 2014|High-Quality Real-Time Video Inpainting with PixMix [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6714519)|Video
 2014|SIAM 2014|Video inpainting of complex scenes [[pdf]](https://arxiv.org/pdf/1503.05528.pdf)|Video
 2015|TIP 2015|Annihilating Filter-Based Low-Rank Hankel Matrix Approach for Image Inpainting [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7127011)|
