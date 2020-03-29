@@ -6,7 +6,9 @@ This repository is a paper list of image extrapolation and inpainting inspired b
 ## Deep-Learning-based Extrapolation Methods
 Year|Proceeding|Title|Comment
 --|:--:|:--:|:--
+2020|CVPR 2020|SynSin: End-to-end View Synthesis from a Single Image [[paper]](https://arxiv.org/pdf/1912.08804.pdf) [[code]](https://github.com/facebookresearch/synsin)|
 2020|WACV 2020| Multimodal Image Outpainting with Regularized Normalized Diversification [[paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Multimodal_Image_Outpainting_With_Regularized_Normalized_Diversification_WACV_2020_paper.pdf) [[code]](https://github.com/owenzlz/DiverseOutpaint)|GAN-based
+2020|WACV 2020|360 Panorama Synthesis from a Sparse Set of Images with Unknown Field of View [[paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Sumantri_360_Panorama_Synthesis_from_a_Sparse_Set_of_Images_with_WACV_2020_paper.pdf) [[code]](https://github.com/JuliusSuryaS/360_pano)|GAN-based
 2019|ICCV 2019|Boundless: Generative Adversarial Networks for Image Extension [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Teterwak_Boundless_Generative_Adversarial_Networks_for_Image_Extension_ICCV_2019_paper.pdf) [[code]](https://github.com/recong/Boundless-in-Pytorch)|
 2019|ICCV 2019|Very Long Natural Scenery Image Prediction by Outpainting [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Very_Long_Natural_Scenery_Image_Prediction_by_Outpainting_ICCV_2019_paper.pdf) [[code]](https://github.com/z-x-yang/NS-Outpainting)|LSTM
 2019|ICCV 2019|COCO-GAN: Generation by Parts via Conditional Coordinating [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lin_COCO-GAN_Generation_by_Parts_via_Conditional_Coordinating_ICCV_2019_paper.pdf) [[official code]](https://github.com/hubert0527/COCO-GAN) [[unofficial code]](https://github.com/shaanrockz/COCO-GAN)|
@@ -206,7 +208,7 @@ Year|Proceeding|Title|Comment
 2019|arXiv:1906.00884|Fashion Editing with Multi-scale Attention Normalization [[pdf]](https://arxiv.org/pdf/1906.00884.pdf)|
 2019|arXiv:1912.01834|Diversity-Generated Image Inpainting with Style Extraction [[paper]](https://arxiv.org/pdf/1912.01834.pdf) [[code]](https://github.com/vivitsai/SEGAN#)|GAN-based
 2019|arXiv:1912.11711|Controllable and Progressive Image Extrapolation [[paper]](https://arxiv.org/pdf/1912.11711.pdf)|GAN-based
-2020|arXiv:1912.10960v2|Image Outpainting and Harmonization using Generative Adversarial Networks [[paper]](https://arxiv.org/pdf/1912.10960v2.pdf) [[code]](https://github.com/basilevh/image-outpainting)|GAN-based
+2019|arXiv:1912.10960v2|Image Outpainting and Harmonization using Generative Adversarial Networks [[paper]](https://arxiv.org/pdf/1912.10960v2.pdf) [[code]](https://github.com/basilevh/image-outpainting)|GAN-based
 2020|arXiv:2001.04568| 180-degree Outpainting from a Single Image [[paper]](https://arxiv.org/pdf/2001.04568.pdf)|GAN-based
 
 
