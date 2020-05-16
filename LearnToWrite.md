@@ -132,11 +132,11 @@
 
 * https://github.com/JunpengCode/Writing
 
-* [** 如何以初学者角度写好一篇国际学术论文？**](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247494067&idx=1&sn=eb3336c09ccb81d3d4677abb97da1390&chksm=ec1c044adb6b8d5c5a52b1b85df9ae92845781e39bd43280b579aea8e995cc06c72d2b14ec72&mpshare=1&scene=1&srcid=&sharer_sharetime=1589636458838&sharer_shareid=4c4902e36a97165cfc9181caa5b2fbfa&exportkey=AbsX%2Fryebkc2OJQpXkckd6M%3D&pass_ticket=U9ZHE8ayBug2Avqnpc9O7tr%2F2814TIYrn2YCDPTWz5Icm1Uvxttz1NI83pLIDhf%2B#rd)
+* [**如何以初学者角度写好一篇国际学术论文**](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247494067&idx=1&sn=eb3336c09ccb81d3d4677abb97da1390&chksm=ec1c044adb6b8d5c5a52b1b85df9ae92845781e39bd43280b579aea8e995cc06c72d2b14ec72&mpshare=1&scene=1&srcid=&sharer_sharetime=1589636458838&sharer_shareid=4c4902e36a97165cfc9181caa5b2fbfa&exportkey=AbsX%2Fryebkc2OJQpXkckd6M%3D&pass_ticket=U9ZHE8ayBug2Avqnpc9O7tr%2F2814TIYrn2YCDPTWz5Icm1Uvxttz1NI83pLIDhf%2B#rd)
 
 * [**SCI的方法和技巧**](https://zhuanlan.zhihu.com/p/104677391)
 
-* [**33篇顶会论文如何做到？北大施柏鑫：计算机视觉论文投稿到接收，不可不知的关键环节 **](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247495199&idx=1&sn=08768abaef0ecbeb376e921ce641fb98&chksm=ec1c03e6db6b8af0da66000396e0e3eaf5b12c111ecc5fcde777afe4e4de3c14182462a90771&mpshare=1&scene=1&srcid=&sharer_sharetime=1589636417606&sharer_shareid=4c4902e36a97165cfc9181caa5b2fbfa&exportkey=AcqhtFdSRPNCcXhDT1BfLBo%3D&pass_ticket=U9ZHE8ayBug2Avqnpc9O7tr%2F2814TIYrn2YCDPTWz5Icm1Uvxttz1NI83pLIDhf%2B#rd)
+* [**33篇顶会论文如何做到？北大施柏鑫：计算机视觉论文投稿到接收，不可不知的关键环节**](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247495199&idx=1&sn=08768abaef0ecbeb376e921ce641fb98&chksm=ec1c03e6db6b8af0da66000396e0e3eaf5b12c111ecc5fcde777afe4e4de3c14182462a90771&mpshare=1&scene=1&srcid=&sharer_sharetime=1589636417606&sharer_shareid=4c4902e36a97165cfc9181caa5b2fbfa&exportkey=AcqhtFdSRPNCcXhDT1BfLBo%3D&pass_ticket=U9ZHE8ayBug2Avqnpc9O7tr%2F2814TIYrn2YCDPTWz5Icm1Uvxttz1NI83pLIDhf%2B#rd)
 
 
 [**备注**]：**本页为[DUT-ICE](http://ice.dlut.edu.cn/)《科技论文写作》课程(图像视觉方向)教学收集，教学/科研目的可随意转载，水平有限，不足之处见谅。**
