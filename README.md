@@ -123,6 +123,7 @@ Year|Proceeding|Title|Comment
 2019|VISAPP 2019|Semantic image inpainting through improved Wasserstein generative adversarial networks [[paper]](https://arxiv.org/pdf/1812.01071.pdf)|GAN-based
 2020|AAAI 2020|Region Normalization for Image Inpainting [[pdf]](https://arxiv.org/abs/1911.10375) [[code]](https://github.com/geekyutao/RN)|
 2020|WACV 2020|Evaluation of Image Inpainting for Classification and Retrieval [[paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Black_Evaluation_of_Image_Inpainting_for_Classification_and_Retrieval_WACV_2020_paper.pdf)|
+2020|ACCESS 2020| PiiGAN: Generative Adversarial Networks for Pluralistic Image Inpainting [[paper]](https://arxiv.org/pdf/1912.01834.pdf)[[code]](https://github.com/vivitsai/PiiGAN)| Diversity
 
 ## Inpainting Traditional Methods
 Year|Proceeding|Title|Comment
