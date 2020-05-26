@@ -101,7 +101,7 @@ Year|Proceeding|Title|Comment
 2019|ACM MM 2019| GAIN: Gradient Augmented Inpainting Network for Irregular Holes [[pdf]](https://dl.acm.org/citation.cfm?id=3350912) |
 2019|ACM MM 2019| Single-shot Semantic Image Inpainting with Densely Connected Generative Networks [[pdf]](https://dl.acm.org/citation.cfm?id=3350903) |
 2019|ICCVW 2019|EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [[pdf]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/AIM/Nazeri_EdgeConnect_Structure_Guided_Image_Inpainting_using_Edge_Prediction_ICCVW_2019_paper.pdf) [[code]](https://github.com/knazeri/edge-connect)|
-2019|ICCV 2019|Coherent Semantic Attention for Image Inpainting [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Coherent_Semantic_Attention_for_Image_Inpainting_ICCV_2019_paper.pdf) [[code]](https://github.com/KumapowerLIU/CSA-inpainting)|
+2019|ICCV 2019|Coherent Semantic Attention for Image Inpainting [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Coherent_Semantic_Attention_for_Image_Inpainting_ICCV_2019_paper.pdf) [[code]](https://github.com/KumapowerLIU/CSA-inpainting)|Attention
 2019|ICCV 2019|StructureFlow: Image Inpainting via Structure-aware Appearance Flow [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ren_StructureFlow_Image_Inpainting_via_Structure-Aware_Appearance_Flow_ICCV_2019_paper.pdf) [[code]](https://github.com/RenYurui/StructureFlow) |
 2019|ICCV 2019|Progressive Reconstruction of Visual Structure for Image Inpainting [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Progressive_Reconstruction_of_Visual_Structure_for_Image_Inpainting_ICCV_2019_paper.pdf) [[code]](https://github.com/jingyuanli001/PRVS-Image-Inpainting) |
 2019|ICCV 2019| Localization of Deep Inpainting Using High-Pass Fully Convolutional Network [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Localization_of_Deep_Inpainting_Using_High-Pass_Fully_Convolutional_Network_ICCV_2019_paper.pdf)|
@@ -124,6 +124,11 @@ Year|Proceeding|Title|Comment
 2020|AAAI 2020|Region Normalization for Image Inpainting [[pdf]](https://arxiv.org/abs/1911.10375) [[code]](https://github.com/geekyutao/RN)|
 2020|WACV 2020|Evaluation of Image Inpainting for Classification and Retrieval [[paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Black_Evaluation_of_Image_Inpainting_for_Classification_and_Retrieval_WACV_2020_paper.pdf)|
 2020|ACCESS 2020| PiiGAN: Generative Adversarial Networks for Pluralistic Image Inpainting [[paper]](https://arxiv.org/pdf/1912.01834.pdf)[[code]](https://github.com/vivitsai/PiiGAN)| Diversity
+2020|CVPR 2020| Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting   [[paper]](https://arxiv.org/pdf/2005.09704.pdf) [[code]](https://github.com/Atlas200dk/sample-imageinpainting-HiFill)|
+2020|CVPR 2020| Attentive Normalization for Conditional Image Generation  [[paper]](https://arxiv.org/pdf/2004.03828.pdf)| Attention
+2020|CVPR 2020| 3D Photography using Context-aware Layered Depth Inpainting   [[paper]](https://arxiv.org/pdf/2004.04727.pdf)| 3D
+2020|CVPR 2020| Instance-aware Image Colorization   [[paper]](https://arxiv.org/pdf/2005.10825.pdf)| Colorization
+
 
 ## Inpainting Traditional Methods
 Year|Proceeding|Title|Comment
