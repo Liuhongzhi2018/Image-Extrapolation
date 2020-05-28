@@ -238,3 +238,72 @@ Year|Proceeding|Title|Comment
 [IJCAI 2019](https://www.ijcai19.org/accepted-papers.html)
 
 [ACL 2019](http://www.acl2019.org/EN/program.xhtml)
+
+
+
+|         T         |     4    |    8    |    16   |     32    |     64    |
+|-----------------|:--------:|:-------:|:-------:|:---------:|:---------:|
+| Variation         | 45490.15 | 9956.87 | 5417.84 |  2613.43  |  1430.70  |
+| Average variation |   45.49  |   9.96  |   5.42  |    2.61   |    1.43   |
+| Variation ratio   |   0.18 % |  0.14 % | 0.062 % | 0.00153 % | 0.00082 % |
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 6px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 6px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-lboi" rowspan="3">Method</th>
+    <th class="tg-0pky" colspan="2"></th>
+    <th class="tg-0pky" colspan="2"></th>
+    <th class="tg-0pky"></th>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">SRN</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Boundless</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">SpiralNet(ours)</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
