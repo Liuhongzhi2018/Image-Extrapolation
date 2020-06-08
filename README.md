@@ -11,6 +11,7 @@ Year|Proceeding|Title|Comment
 2020|WACV 2020| Multimodal Image Outpainting with Regularized Normalized Diversification [[paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Multimodal_Image_Outpainting_With_Regularized_Normalized_Diversification_WACV_2020_paper.pdf) [[code]](https://github.com/owenzlz/DiverseOutpaint)|GAN-based
 2020|WACV 2020|360 Panorama Synthesis from a Sparse Set of Images with Unknown Field of View [[paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Sumantri_360_Panorama_Synthesis_from_a_Sparse_Set_of_Images_with_WACV_2020_paper.pdf) [[code]](https://github.com/JuliusSuryaS/360_pano)|GAN-based
 2020|ITNEC 2020| Image extrapolation based on multi-column convolutional attention network [[paper]](https://ieeexplore.ieee.org/abstract/document/9084753) |
+2020|ICIP 2020| Image Completion and Extrapolation with Contextual Cycle Consistency [[paper]](https://arxiv.org/pdf/2006.02620.pdf) |
 2019|ICCV 2019|Boundless: Generative Adversarial Networks for Image Extension [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Teterwak_Boundless_Generative_Adversarial_Networks_for_Image_Extension_ICCV_2019_paper.pdf) [[code]](https://github.com/recong/Boundless-in-Pytorch)|
 2019|ICCV 2019|Very Long Natural Scenery Image Prediction by Outpainting [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Very_Long_Natural_Scenery_Image_Prediction_by_Outpainting_ICCV_2019_paper.pdf) [[code]](https://github.com/z-x-yang/NS-Outpainting)|LSTM
 2019|ICCV 2019|COCO-GAN: Generation by Parts via Conditional Coordinating [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lin_COCO-GAN_Generation_by_Parts_via_Conditional_Coordinating_ICCV_2019_paper.pdf) [[official code]](https://github.com/hubert0527/COCO-GAN) [[unofficial code]](https://github.com/shaanrockz/COCO-GAN)|
@@ -223,6 +224,7 @@ Year|Proceeding|Title|Comment
 
 
 # Related Link
+
 [ICCV 2019](http://openaccess.thecvf.com/ICCV2019.py)
 
 [CVPR 2019](http://openaccess.thecvf.com/CVPR2019.py)
@@ -242,3 +244,9 @@ Year|Proceeding|Title|Comment
 [IJCAI 2019](https://www.ijcai19.org/accepted-papers.html)
 
 [ACL 2019](http://www.acl2019.org/EN/program.xhtml)
+
+[Extrapolation arXiv paper search](http://arxitics.com/search?q=image%20extrapolation&sort=published)
+
+[Outpainting arXiv paper search](http://arxitics.com/search?q=outpainting)
+
+[Inpainting arXiv paper search](http://arxitics.com/search?q=inpainting&sort=published)
