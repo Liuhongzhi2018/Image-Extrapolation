@@ -7,7 +7,7 @@ This repository is a paper list of image extrapolation and inpainting inspired b
 Year|Proceeding|Title|Comment
 --|:--:|:--:|:--
 2020|CVPR 2020|SynSin: End-to-end View Synthesis from a Single Image [[paper]](https://arxiv.org/pdf/1912.08804.pdf) [[code]](https://github.com/facebookresearch/synsin)|
-2020|CVPR 2020|Semantic Pyramid for Image Generation [[paper]](https://arxiv.org/pdf/2003.06221.pdf) [[code]](https://github.com/ChristophReich1996/Semantic_Pyramid_for_Image_Generation)|Re-painting
+2020|CVPR 2020|Semantic Pyramid for Image Generation [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Shocher_Semantic_Pyramid_for_Image_Generation_CVPR_2020_paper.pdf) [[code]](https://github.com/ChristophReich1996/Semantic_Pyramid_for_Image_Generation)|Re-painting
 2020|WACV 2020| Multimodal Image Outpainting with Regularized Normalized Diversification [[paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Multimodal_Image_Outpainting_With_Regularized_Normalized_Diversification_WACV_2020_paper.pdf) [[code]](https://github.com/owenzlz/DiverseOutpaint)|GAN-based
 2020|WACV 2020|360 Panorama Synthesis from a Sparse Set of Images with Unknown Field of View [[paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Sumantri_360_Panorama_Synthesis_from_a_Sparse_Set_of_Images_with_WACV_2020_paper.pdf) [[code]](https://github.com/JuliusSuryaS/360_pano)|GAN-based
 2020|ITNEC 2020| Image extrapolation based on multi-column convolutional attention network [[paper]](https://ieeexplore.ieee.org/abstract/document/9084753) |
@@ -130,12 +130,16 @@ Year|Proceeding|Title|Comment
 2020|WACV 2020|Evaluation of Image Inpainting for Classification and Retrieval [[paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Black_Evaluation_of_Image_Inpainting_for_Classification_and_Retrieval_WACV_2020_paper.pdf)|
 2020|ACCESS 2020| PiiGAN: Generative Adversarial Networks for Pluralistic Image Inpainting [[paper]](https://arxiv.org/pdf/1912.01834.pdf)[[code]](https://github.com/vivitsai/PiiGAN)| Diversity
 2020|CVPR 2020| Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting   [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yi_Contextual_Residual_Aggregation_for_Ultra_High-Resolution_Image_Inpainting_CVPR_2020_paper.pdf) [[code]](https://github.com/Ascend-Huawei/Ascend-Canada/tree/master/Models/Research_HiFIll_Model)|
-2020|CVPR 2020| UCTGAN: Diverse Image Inpainting Based on Unsupervised Cross-Space Translation [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_UCTGAN_Diverse_Image_Inpainting_Based_on_Unsupervised_Cross-Space_Translation_CVPR_2020_paper.pdf) |
+2020|CVPR 2020| UCTGAN: Diverse Image Inpainting Based on Unsupervised Cross-Space Translation [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_UCTGAN_Diverse_Image_Inpainting_Based_on_Unsupervised_Cross-Space_Translation_CVPR_2020_paper.pdf) | Diverse
 2020|CVPR 2020| Recurrent Feature Reasoning for Image Inpainting [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Recurrent_Feature_Reasoning_for_Image_Inpainting_CVPR_2020_paper.pdf) [[code]](https://github.com/jingyuanli001/RFR-Inpainting) | Recurrent
 2020|CVPR 2020| Prior Guided GAN Based Semantic Inpainting [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lahiri_Prior_Guided_GAN_Based_Semantic_Inpainting_CVPR_2020_paper.pdf)|
 2020|CVPR 2020| Attentive Normalization for Conditional Image Generation  [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Attentive_Normalization_for_Conditional_Image_Generation_CVPR_2020_paper.pdf)| Attention
-2020|CVPR 2020| 3D Photography using Context-aware Layered Depth Inpainting   [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Shih_3D_Photography_Using_Context-Aware_Layered_Depth_Inpainting_CVPR_2020_paper.pdf) [[code]](https://github.com/vt-vl-lab/3d-photo-inpainting)| 3D
 2020|CVPR 2020| Instance-aware Image Colorization   [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Instance-Aware_Image_Colorization_CVPR_2020_paper.pdf) [[code]](https://github.com/ericsujw/InstColorization)| Colorization
+2020|CVPR 2020| Intuitive, Interactive Beard and Hair Synthesis with Generative Models   [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Olszewski_Intuitive_Interactive_Beard_and_Hair_Synthesis_With_Generative_Models_CVPR_2020_paper.pdf)| Image Editing
+2020|CVPR 2020| Wish You Were Here: Context-Aware Human Generation [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Gafni_Wish_You_Were_Here_Context-Aware_Human_Generation_CVPR_2020_paper.pdf)|
+2020|CVPR 2020| 3D Photography using Context-aware Layered Depth Inpainting   [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Shih_3D_Photography_Using_Context-Aware_Layered_Depth_Inpainting_CVPR_2020_paper.pdf) [[code]](https://github.com/vt-vl-lab/3d-photo-inpainting)| 3D
+2020|CVPR 2020| FeatureFlow: Robust Video Interpolation via Structure-to-texture Generation [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Gui_FeatureFlow_Robust_Video_Interpolation_via_Structure-to-Texture_Generation_CVPR_2020_paper.pdf) [[code]](https://github.com/CM-BF/FeatureFlow)| Video
+
 
 
 ## Inpainting Traditional Methods
