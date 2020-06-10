@@ -129,10 +129,13 @@ Year|Proceeding|Title|Comment
 2020|AAAI 2020|Learning to Incorporate Structure Knowledge for Image Inpainting [[pdf]](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-YangJ.3731.pdf) [[code]](https://github.com/YoungGod/sturcture-inpainting)|
 2020|WACV 2020|Evaluation of Image Inpainting for Classification and Retrieval [[paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Black_Evaluation_of_Image_Inpainting_for_Classification_and_Retrieval_WACV_2020_paper.pdf)|
 2020|ACCESS 2020| PiiGAN: Generative Adversarial Networks for Pluralistic Image Inpainting [[paper]](https://arxiv.org/pdf/1912.01834.pdf)[[code]](https://github.com/vivitsai/PiiGAN)| Diversity
-2020|CVPR 2020| Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting   [[paper]](https://arxiv.org/pdf/2005.09704.pdf) [[code]](https://github.com/Atlas200dk/sample-imageinpainting-HiFill)|
-2020|CVPR 2020| Attentive Normalization for Conditional Image Generation  [[paper]](https://arxiv.org/pdf/2004.03828.pdf)| Attention
-2020|CVPR 2020| 3D Photography using Context-aware Layered Depth Inpainting   [[paper]](https://arxiv.org/pdf/2004.04727.pdf)| 3D
-2020|CVPR 2020| Instance-aware Image Colorization   [[paper]](https://arxiv.org/pdf/2005.10825.pdf)| Colorization
+2020|CVPR 2020| Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting   [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yi_Contextual_Residual_Aggregation_for_Ultra_High-Resolution_Image_Inpainting_CVPR_2020_paper.pdf) [[code]](https://github.com/Ascend-Huawei/Ascend-Canada/tree/master/Models/Research_HiFIll_Model)|
+2020|CVPR 2020| UCTGAN: Diverse Image Inpainting Based on Unsupervised Cross-Space Translation [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_UCTGAN_Diverse_Image_Inpainting_Based_on_Unsupervised_Cross-Space_Translation_CVPR_2020_paper.pdf) |
+2020|CVPR 2020| Recurrent Feature Reasoning for Image Inpainting [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Recurrent_Feature_Reasoning_for_Image_Inpainting_CVPR_2020_paper.pdf) [[code]](https://github.com/jingyuanli001/RFR-Inpainting) | Recurrent
+2020|CVPR 2020| Prior Guided GAN Based Semantic Inpainting [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lahiri_Prior_Guided_GAN_Based_Semantic_Inpainting_CVPR_2020_paper.pdf)|
+2020|CVPR 2020| Attentive Normalization for Conditional Image Generation  [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Attentive_Normalization_for_Conditional_Image_Generation_CVPR_2020_paper.pdf)| Attention
+2020|CVPR 2020| 3D Photography using Context-aware Layered Depth Inpainting   [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Shih_3D_Photography_Using_Context-Aware_Layered_Depth_Inpainting_CVPR_2020_paper.pdf) [[code]](https://github.com/vt-vl-lab/3d-photo-inpainting)| 3D
+2020|CVPR 2020| Instance-aware Image Colorization   [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Instance-Aware_Image_Colorization_CVPR_2020_paper.pdf) [[code]](https://github.com/ericsujw/InstColorization)| Colorization
 
 
 ## Inpainting Traditional Methods
@@ -226,6 +229,10 @@ Year|Proceeding|Title|Comment
 # Related Link
 
 [ICCV 2019](http://openaccess.thecvf.com/ICCV2019.py)
+
+[CVPR 2020](http://openaccess.thecvf.com/CVPR2020.py)
+
+[CVPR 2020 Workshops ](http://openaccess.thecvf.com/CVPR2020_workshops/menu.py)
 
 [CVPR 2019](http://openaccess.thecvf.com/CVPR2019.py)
 
