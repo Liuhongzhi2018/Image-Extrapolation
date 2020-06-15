@@ -78,7 +78,7 @@ Year|Proceeding|Title|Comment
 2018|SPIC 2018|A deep learning approach to patch-based image inpainting forensics [[paper]](https://www.researchgate.net/profile/Xinshan_Zhu3/publication/325802468_A_deep_learning_approach_to_patch-based_image_inpainting_forensics/links/5d3c5fe892851cd0468c487c/A-deep-learning-approach-to-patch-based-image-inpainting-forensics.pdf)|CNN-based
 2018|MS 2018|Semantic object removal with convolutional neural network feature-based inpainting approach [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs00530-018-0585-x.pdf)|CNN-based
 2018|NCA 2018|Occluded offline handwritten Chinese character recognition using deep convolutional generative adversarial network and improved GoogLeNet [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs00521-018-3854-x.pdf)|GAN-based
-2018|TIP 2018|Perceptual Adversarial Networks forImage-to-Image Transformation [[paper]](https://arxiv.org/pdf/1706.09138.pdf)|GAN-based
+2018|TIP 2018|Perceptual Adversarial Networks for Image-to-Image Transformation [[paper]](https://arxiv.org/pdf/1706.09138.pdf)|GAN-based
 2018|GRSL 2018|Inpainting of Remote Sensing SST Images With Deep Convolutional Generative Adversarial Network [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8480867)|GAN-based
 2018|PRRS 2018|Preliminary Investigation on Single Remote Sensing Image Inpainting Through a Modified GAN [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8486163)|GAN-based
 2018|ICCES 2018|Semantic Image Inpainting Vsing Self-Learning Encoder-Decoder and Adversarial Loss [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8639258)|GAN-based
