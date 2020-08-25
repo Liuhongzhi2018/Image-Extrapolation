@@ -6,7 +6,7 @@ This repository is a paper list of image extrapolation and inpainting inspired b
 ## Deep-Learning-based Extrapolation Methods
 Year|Proceeding|Title|Comment
 --|:--:|:--:|:--
-2020|ECCV 2020|Spiral Generative Network for Image Extrapolation|
+2020|ECCV 2020|Spiral Generative Network for Image Extrapolation [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640681.pdf) [[code]](https://github.com/zhenglab/spiralnet)|
 2020|CVPR 2020|Semantic Pyramid for Image Generation [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Shocher_Semantic_Pyramid_for_Image_Generation_CVPR_2020_paper.pdf) [[code]](https://github.com/ChristophReich1996/Semantic_Pyramid_for_Image_Generation)|Re-painting
 2020|WACV 2020| Multimodal Image Outpainting with Regularized Normalized Diversification [[paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Multimodal_Image_Outpainting_With_Regularized_Normalized_Diversification_WACV_2020_paper.pdf) [[code]](https://github.com/owenzlz/DiverseOutpaint)|GAN-based
 2020|WACV 2020|360 Panorama Synthesis from a Sparse Set of Images with Unknown Field of View [[paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Sumantri_360_Panorama_Synthesis_from_a_Sparse_Set_of_Images_with_WACV_2020_paper.pdf) [[code]](https://github.com/JuliusSuryaS/360_pano)|GAN-based
@@ -140,12 +140,14 @@ Year|Proceeding|Title|Comment
 2020|CVPR 2020| Assessing Eye Aesthetics for Automatic Multi-Reference Eye In-Painting  [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Assessing_Eye_Aesthetics_for_Automatic_Multi-Reference_Eye_In-Painting_CVPR_2020_paper.pdf)| Eye
 2020|CVPR 2020| 3D Photography using Context-aware Layered Depth Inpainting   [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Shih_3D_Photography_Using_Context-Aware_Layered_Depth_Inpainting_CVPR_2020_paper.pdf) [[code]](https://github.com/vt-vl-lab/3d-photo-inpainting)| 3D
 2020|CVPR 2020| FeatureFlow: Robust Video Interpolation via Structure-to-texture Generation [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Gui_FeatureFlow_Robust_Video_Interpolation_via_Structure-to-Texture_Generation_CVPR_2020_paper.pdf) [[code]](https://github.com/CM-BF/FeatureFlow)| Video
-2020|ECCV 2020| Rethinking image inpainting via a mutual encoder-decoder with feature equalization [[paper]](https://arxiv.org/pdf/2007.06929v1.pdf) [[official code]](https://github.com/KumapowerLIU/Rethinking-Inpainting-MEDFE) [[code]](https://github.com/KumapowerLIU/ECCV2020oralRethinking-Image-Inpainting-via-a-Mutual-Encoder-Decoder-with-Feature-Equalizations)| oral
+2020|ECCV 2020| Rethinking image inpainting via a mutual encoder-decoder with feature equalization [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470715.pdf) [[official code]](https://github.com/KumapowerLIU/Rethinking-Inpainting-MEDFE) [[code]](https://github.com/KumapowerLIU/ECCV2020oralRethinking-Image-Inpainting-via-a-Mutual-Encoder-Decoder-with-Feature-Equalizations)| oral
+2020|ECCV 2020| Learning Object Placement by Inpainting for Compositional Data Augmentation [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580562.pdf) | 
 2020|ECCV 2020|High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling [[paper]](https://arxiv.org/pdf/2005.11742.pdf) [[code]](https://zengxianyu.github.io/iic)|
-2020|ECCV 2020|VCNet: A Robust Approach to Blind Image Inpainting [[paper]](https://arxiv.org/pdf/2003.06816.pdf) | 
-2020|ECCV 2020|Guidance and Evaluation: Semantic-Aware Image Inpainting for Mixed Scenes [[paper]](https://arxiv.org/pdf/2003.06877.pdf) |
-2020|ECCV 2020|Short-Term and Long-Term Context Aggregation Network for Video Inpainting | video
-2020|ECCV 2020|DVI: Depth Guided Video Inpainting for Autonomous Driving | video
+2020|ECCV 2020|VCNet: A Robust Approach to Blind Image Inpainting [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700749.pdf) | 
+2020|ECCV 2020|Guidance and Evaluation: Semantic-Aware Image Inpainting for Mixed Scenes [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720681.pdf) |
+2020|ECCV 2020|Short-Term and Long-Term Context Aggregation Network for Video Inpainting [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490698.pdf) | video
+2020|ECCV 2020|DVI: Depth Guided Video Inpainting for Autonomous Driving [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660001.pdf) | video
+2020|ECCV 2020| Learning Joint Spatial-Temporal Transformations for Video Inpainting [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610511.pdf) | video
 
 
 ## Inpainting Traditional Methods
