@@ -142,7 +142,7 @@ Year|Proceeding|Title|Comment
 2020|CVPR 2020| FeatureFlow: Robust Video Interpolation via Structure-to-texture Generation [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Gui_FeatureFlow_Robust_Video_Interpolation_via_Structure-to-Texture_Generation_CVPR_2020_paper.pdf) [[code]](https://github.com/CM-BF/FeatureFlow)| Video
 2020|ECCV 2020| Rethinking image inpainting via a mutual encoder-decoder with feature equalization [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470715.pdf) [[official code]](https://github.com/KumapowerLIU/Rethinking-Inpainting-MEDFE) | oral
 2020|ECCV 2020| Learning Object Placement by Inpainting for Compositional Data Augmentation [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580562.pdf) | 
-2020|ECCV 2020|High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling [[paper]](https://arxiv.org/pdf/2005.11742.pdf) [[code]](https://zengxianyu.github.io/iic)|
+2020|ECCV 2020|High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640001.pdf) [[code]](https://zengxianyu.github.io/iic)|
 2020|ECCV 2020|VCNet: A Robust Approach to Blind Image Inpainting [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700749.pdf) | 
 2020|ECCV 2020|Guidance and Evaluation: Semantic-Aware Image Inpainting for Mixed Scenes [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720681.pdf) |
 2020|ECCV 2020|Short-Term and Long-Term Context Aggregation Network for Video Inpainting [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490698.pdf) | video
