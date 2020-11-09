@@ -148,7 +148,10 @@ Year|Proceeding|Title|Comment
 2020|ECCV 2020|Short-Term and Long-Term Context Aggregation Network for Video Inpainting [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490698.pdf) | video
 2020|ECCV 2020|DVI: Depth Guided Video Inpainting for Autonomous Driving [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660001.pdf) | video
 2020|ECCV 2020| Learning Joint Spatial-Temporal Transformations for Video Inpainting [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610511.pdf) | video
-
+2020|ECCVW 2020 (AIM 2020)| AIM 2020 Challenge on Image Extreme
+Inpainting [[paper]](https://arxiv.org/pdf/2010.01110.pdf) [[code]](https://github.com/vglsd/AIM2020-Image-Inpainting-Challenge) [[webpage]](http://www.vision.ee.ethz.ch/aim20/) | workshop
+2020|ECCVW 2020 | Image Fine-grained Inpainting [[paper]](https://arxiv.org/pdf/2002.02609.pdf) [[code]](https://github.com/Zheng222/DMFN)  | 1st
+2020|ECCVW 2020 | DeepGIN: Deep Generative Inpainting Networkfor Extreme Image Inpainting [[paper]](https://arxiv.org/pdf/2008.07173.pdf) [[code]](https://github.com/rlct1/DeepGIN) | 9th
 
 ## Inpainting Traditional Methods
 Year|Proceeding|Title|Comment
