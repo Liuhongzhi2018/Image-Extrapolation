@@ -3,6 +3,47 @@ What I cannot create, I do not understand.
 
 This repository is a paper list of image extrapolation and inpainting inspired by @1900zyh's repository [Awsome-Image-Inpainting](https://github.com/1900zyh/Awsome-Image-Inpainting) and @geekyutao's repository [Image Inpainting](https://github.com/geekyutao/Image-Inpainting). As a conditional generation task, I learn from @xiaweihao's repository [awesome-image-translation](https://github.com/xiaweihao/awesome-image-translation).
 
+## Benchmarks for Image Extrapolation
+DATASET| Metrics| Method | Title |
+--|:--:|:--:|:--
+CelebA-HQ (75%) | PSNR=16.05 SSIM=0.6815 FID=21.17 |- | Spiral Generative Network for Image Extrapolation
+Stanford cars (75%)| PSNR=14.31 SSIM=0.5775 FID=23.64 |- | Spiral Generative Network for Image Extrapolation
+CUB (75%)| PSNR=16.22 SSIM=0.5313 FID=56.50 |- | Spiral Generative Network for Image Extrapolation
+Flowers (75%)| PSNR=15.67 SSIM=0.5078 FID=52.14 |- | Spiral Generative Network for Image Extrapolation
+Cityscapes (50%)| PSNR=20.43 SSIM=0.7125 FID=22.34 |- | Spiral Generative Network for Image Extrapolation
+Paris StreetView (50%)| PSNR=17.43 SSIM=0.5970 FID=35.58 |- | Spiral Generative Network for Image Extrapolation
+Places365-Sky (50%)| PSNR=21.75 SSIM=0.7834 FID=51.55 |- | Spiral Generative Network for Image Extrapolation
+Places365-Desert Road (50%)| PSNR=20.22 SSIM=0.7026 FID=80.66 |- | Spiral Generative Network for Image Extrapolation
+Places365 (25%) | PSNR=10.17 FID=0.79 | Boundless | Boundless: Generative Adversarial Networks for Image Extension
+Places365 (50%) | PSNR=8.63 FID=3.46 | Boundless | Boundless: Generative Adversarial Networks for Image Extension
+Places365 (75%) | PSNR=8.07 FID=8.79 | Boundless | Boundless: Generative Adversarial Networks for Image Extension
+SUN | IS=2.852 FID=13.713 | RCT-SHC | Very Long Natural Scenery Image Prediction by Outpainting
+DeepFashion | PSNR=12.58 SSIM=0.5686 | SRN | Wide-Context Semantic Image Extrapolation
+
+## Benchmarks for Image Inpainting
+DATASET| Metrics| Method | Title |
+--|:--:|:--:|:--
+CelebA (25%) | PSNR=26.32 SSIM=0.910 FID=25.51 | MEDFE | Rethinking Image Inpainting via a Mutual Encoder-Decoder with Feature Equalizations
+CelebA (10-20%) | PSNR=34.69 SSIM=0.989  l1err.=0.72%  l2err. =0.04% | CSA | Coherent Semantic Attention for Image Inpainting
+CelebA (20-30%) | PSNR=32.58 SSIM=0.982  l1err.=0.94%  l2err. =0.07% | CSA | Coherent Semantic Attention for Image Inpainting
+CelebA (30-40%) | PSNR=25.32 SSIM=0.926  l1err.=2.18%  l2err. =0.37% | CSA | Coherent Semantic Attention for Image Inpainting
+CelebA (40-50%) | PSNR=24.14 SSIM=0.883  l1err.=2.85%  l2err. =0.44% | CSA | Coherent Semantic Attention for Image Inpainting
+CelebA-HQ | PSNR=29.4912 SSIM=0.9606 L2=0.14 LPIPS=0.0682 | SC-FEGAN | SC-FEGAN: Face Editing Generative Adversarial Network with User’s Sketch and ColorRethinking Image Inpainting via a Mutual Encoder-Decoder with Feature Equalizations
+Paris StreetView (10%-20%) | PSNR=28.73 SSIM=0.889 | LBAM | Image Inpainting with Learnable Bidirectional Attention Maps
+Paris StreetView (20%-30%) | PSNR=26.16 SSIM=0.795 | LBAM | Image Inpainting with Learnable Bidirectional Attention Maps
+Paris StreetView (30%-40%) | PSNR=24.26 SSIM=0.716 | LBAM | Image Inpainting with Learnable Bidirectional Attention Maps
+Paris StreetView (40%-50%) | PSNR=22.62 SSIM=0.621 | LBAM | Image Inpainting with Learnable Bidirectional Attention Maps
+Place2 (10%-20%) | PSNR=31.13 SSIM=0.957 FID=6.91 | MEDFE | Rethinking Image Inpainting via a Mutual Encoder-Decoder with Feature Equalizations
+Place2 (20%-30%) | PSNR=28.87 SSIM=0.923 FID=8.06 | MEDFE | Rethinking Image Inpainting via a Mutual Encoder-Decoder with Feature Equalizations
+Place2 (30%-40%) | PSNR=25.34 SSIM=0.854 FID=19.36 | MEDFE | Rethinking Image Inpainting via a Mutual Encoder-Decoder with Feature Equalizations
+Place2 (40%-50%) | PSNR=22.81 SSIM=0.719 FID=28.79 | MEDFE | Rethinking Image Inpainting via a Mutual Encoder-Decoder with Feature Equalizations
+Place2 (0-20%) | PSNR=32.029 SSIM=0.9738 FID=2.9420 | StructureFlow | StructureFlow: Image Inpainting via Structure-aware Appearance Flow
+Place2 (20%-40%) | PSNR=25.218 SSIM=0.9026 FID=7.0354 | StructureFlow | StructureFlow: Image Inpainting via Structure-aware Appearance Flow
+Place2 (40%-60%) | PSNR=21.090 SSIM=0.7561 FID=22.3803 | StructureFlow | StructureFlow: Image Inpainting via Structure-aware Appearance Flow
+Place2 (rectangular) | l1 err.=8.6% l2 err.=2.0% | SN-PatchGAN | StructureFlow: Image Inpainting via Structure-aware Appearance Flow
+Place2 (free-form) | l1 err.=9.1% l2 err.=1.6% | SN-PatchGAN | Free-Form Image Inpainting with Gated Convolution
+
+
 ## Deep-Learning-based Extrapolation Methods
 Year|Proceeding|Title|Comment
 --|:--:|:--:|:--
@@ -141,9 +182,9 @@ Year|Proceeding|Title|Comment
 2020|CVPR 2020| 3D Photography using Context-aware Layered Depth Inpainting   [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Shih_3D_Photography_Using_Context-Aware_Layered_Depth_Inpainting_CVPR_2020_paper.pdf) [[code]](https://github.com/vt-vl-lab/3d-photo-inpainting)| 3D
 2020|CVPR 2020| FeatureFlow: Robust Video Interpolation via Structure-to-texture Generation [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Gui_FeatureFlow_Robust_Video_Interpolation_via_Structure-to-Texture_Generation_CVPR_2020_paper.pdf) [[code]](https://github.com/CM-BF/FeatureFlow)| Video
 2020|ECCV 2020| Rethinking image inpainting via a mutual encoder-decoder with feature equalization [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470715.pdf) [[official code]](https://github.com/KumapowerLIU/Rethinking-Inpainting-MEDFE) | oral
-2020|ECCV 2020| Learning Object Placement by Inpainting for Compositional Data Augmentation [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580562.pdf) | 
+2020|ECCV 2020| Learning Object Placement by Inpainting for Compositional Data Augmentation [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580562.pdf) |
 2020|ECCV 2020|High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640001.pdf) [[code]](https://zengxianyu.github.io/iic)|
-2020|ECCV 2020|VCNet: A Robust Approach to Blind Image Inpainting [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700749.pdf) | 
+2020|ECCV 2020|VCNet: A Robust Approach to Blind Image Inpainting [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700749.pdf) |
 2020|ECCV 2020|Guidance and Evaluation: Semantic-Aware Image Inpainting for Mixed Scenes [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720681.pdf) |
 2020|ECCV 2020|Short-Term and Long-Term Context Aggregation Network for Video Inpainting [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490698.pdf) | video
 2020|ECCV 2020|DVI: Depth Guided Video Inpainting for Autonomous Driving [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660001.pdf) | video
