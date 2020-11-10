@@ -5,7 +5,7 @@ This repository is a paper list of image extrapolation and inpainting inspired b
 
 ## Benchmarks for Image Extrapolation
 DATASET| Metrics| Method | Title |
---|:--:|:--:|:--
+:--:|:--:|:--:|:--
 CelebA-HQ (75%) | PSNR=16.05 SSIM=0.6815 FID=21.17 |- | Spiral Generative Network for Image Extrapolation
 Stanford cars (75%)| PSNR=14.31 SSIM=0.5775 FID=23.64 |- | Spiral Generative Network for Image Extrapolation
 CUB (75%)| PSNR=16.22 SSIM=0.5313 FID=56.50 |- | Spiral Generative Network for Image Extrapolation
@@ -22,7 +22,7 @@ DeepFashion | PSNR=12.58 SSIM=0.5686 | SRN | Wide-Context Semantic Image Extrapo
 
 ## Benchmarks for Image Inpainting
 DATASET| Metrics| Method | Title |
---|:--:|:--:|:--
+:--:|:--:|:--:|:--
 CelebA (25%) | PSNR=26.32 SSIM=0.910 FID=25.51 | MEDFE | Rethinking Image Inpainting via a Mutual Encoder-Decoder with Feature Equalizations
 CelebA (10-20%) | PSNR=34.69 SSIM=0.989  l1err.=0.72%  l2err. =0.04% | CSA | Coherent Semantic Attention for Image Inpainting
 CelebA (20-30%) | PSNR=32.58 SSIM=0.982  l1err.=0.94%  l2err. =0.07% | CSA | Coherent Semantic Attention for Image Inpainting
