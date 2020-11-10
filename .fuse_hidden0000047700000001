@@ -17,7 +17,7 @@ Places365-Desert Road (50%)| PSNR=20.22 SSIM=0.7026 FID=80.66 |- | Spiral Genera
 Places365 (25%) | PSNR=10.17 FID=0.79 | Boundless | Boundless: Generative Adversarial Networks for Image Extension
 Places365 (50%) | PSNR=8.63 FID=3.46 | Boundless | Boundless: Generative Adversarial Networks for Image Extension
 Places365 (75%) | PSNR=8.07 FID=8.79 | Boundless | Boundless: Generative Adversarial Networks for Image Extension
-SUN | IS=2.852 FID=13.713 | NS-Outpainting | Very Long Natural Scenery Image Prediction by Outpainting
+SUN | IS=2.852 FID=13.713 | RCT-SHC | Very Long Natural Scenery Image Prediction by Outpainting
 DeepFashion | PSNR=12.58 SSIM=0.5686 | SRN | Wide-Context Semantic Image Extrapolation
 
 ## Benchmarks for Image Inpainting
