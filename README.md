@@ -6,14 +6,14 @@ This repository is a paper list of image extrapolation and inpainting inspired b
 ## Benchmarks for Image Extrapolation
 Dataset| Metrics| Method | Title |
 :--:|:--:|:--:|:--
-CelebA-HQ (75%) | PSNR=16.05 SSIM=0.6815 FID=21.17 |- | Spiral Generative Network for Image Extrapolation
-Stanford cars (75%)| PSNR=14.31 SSIM=0.5775 FID=23.64 |- | Spiral Generative Network for Image Extrapolation
-CUB (75%)| PSNR=16.22 SSIM=0.5313 FID=56.50 |- | Spiral Generative Network for Image Extrapolation
-Flowers (75%)| PSNR=15.67 SSIM=0.5078 FID=52.14 |- | Spiral Generative Network for Image Extrapolation
-Cityscapes (50%)| PSNR=20.43 SSIM=0.7125 FID=22.34 |- | Spiral Generative Network for Image Extrapolation
-Paris StreetView (50%)| PSNR=17.43 SSIM=0.5970 FID=35.58 |- | Spiral Generative Network for Image Extrapolation
-Places365-Sky (50%)| PSNR=21.75 SSIM=0.7834 FID=51.55 |- | Spiral Generative Network for Image Extrapolation
-Places365-Desert Road (50%)| PSNR=20.22 SSIM=0.7026 FID=80.66 |- | Spiral Generative Network for Image Extrapolation
+CelebA-HQ (75%) | PSNR=16.05 SSIM=0.6815 FID=21.17 | SpiralNet | Spiral Generative Network for Image Extrapolation
+Stanford cars (75%)| PSNR=14.31 SSIM=0.5775 FID=23.64 | SpiralNet | Spiral Generative Network for Image Extrapolation
+CUB (75%)| PSNR=16.22 SSIM=0.5313 FID=56.50 | SpiralNet | Spiral Generative Network for Image Extrapolation
+Flowers (75%)| PSNR=15.67 SSIM=0.5078 FID=52.14 | SpiralNet | Spiral Generative Network for Image Extrapolation
+Cityscapes (50%)| PSNR=20.43 SSIM=0.7125 FID=22.34 | SpiralNet | Spiral Generative Network for Image Extrapolation
+Paris StreetView (50%)| PSNR=17.43 SSIM=0.5970 FID=35.58 | SpiralNet | Spiral Generative Network for Image Extrapolation
+Places365-Sky (50%)| PSNR=21.75 SSIM=0.7834 FID=51.55 | SpiralNet | Spiral Generative Network for Image Extrapolation
+Places365-Desert Road (50%)| PSNR=20.22 SSIM=0.7026 FID=80.66 | SpiralNet | Spiral Generative Network for Image Extrapolation
 Places365 (25%) | PSNR=10.17 FID=0.79 | Boundless | Boundless: Generative Adversarial Networks for Image Extension
 Places365 (50%) | PSNR=8.63 FID=3.46 | Boundless | Boundless: Generative Adversarial Networks for Image Extension
 Places365 (75%) | PSNR=8.07 FID=8.79 | Boundless | Boundless: Generative Adversarial Networks for Image Extension
