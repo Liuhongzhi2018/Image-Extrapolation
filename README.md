@@ -47,7 +47,7 @@ Place2 (free-form) | l1 err.=9.1% l2 err.=1.6% | SN-PatchGAN | Free-Form Image I
 ## Deep-Learning-based Extrapolation Methods
 Year|Proceeding|Title|Comment
 --|:--:|:--:|:--
-2021|WACV 2021| Painting Outside as Inside: Edge Guided Image Outpainting via BidirectionalRearrangement with Progressive Step Learning [[paper]](https://arxiv.org/pdf/2010.01810.pdf)|
+2021|WACV 2021| Painting Outside as Inside: Edge Guided Image Outpainting via Bidirectional Rearrangement with Progressive Step Learning [[paper]](https://arxiv.org/pdf/2010.01810.pdf)|
 2021|WACV 2021| DeepCFL: Deep Contextual Features Learning from a Single Image [[paper]](https://arxiv.org/pdf/2011.03712.pdf)| InGAN
 2020|ECCV 2020|Spiral Generative Network for Image Extrapolation [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640681.pdf) [[Springer]](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_41) [[code]](https://github.com/zhenglab/spiralnet)|
 2020|ECCV 2020|Spiral Generative Network for Image Extrapolation [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640681.pdf) [[Springer]](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_41) [[code]](https://github.com/zhenglab/spiralnet)|
@@ -55,7 +55,7 @@ Year|Proceeding|Title|Comment
 2020|WACV 2020| Multimodal Image Outpainting with Regularized Normalized Diversification [[paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Multimodal_Image_Outpainting_With_Regularized_Normalized_Diversification_WACV_2020_paper.pdf) [[code]](https://github.com/owenzlz/DiverseOutpaint)|GAN-based
 2020|WACV 2020|360 Panorama Synthesis from a Sparse Set of Images with Unknown Field of View [[paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Sumantri_360_Panorama_Synthesis_from_a_Sparse_Set_of_Images_with_WACV_2020_paper.pdf) [[code]](https://github.com/JuliusSuryaS/360_pano)|GAN-based
 2020|ITNEC 2020| Image extrapolation based on multi-column convolutional attention network [[paper]](https://ieeexplore.ieee.org/abstract/document/9084753) |
-2020|SPL 2020| SiENet: Siamese Expansion Network for ImageExtrapolation [[paper]](https://arxiv.org/pdf/2007.03851.pdf) [[code]](https://github.com/nanjingxiaobawang/SieNet-Image-extrapolation)| SCI三
+2020|SPL 2020| SiENet: Siamese Expansion Network for Image Extrapolation [[paper]](https://arxiv.org/pdf/2007.03851.pdf) [[code]](https://github.com/nanjingxiaobawang/SieNet-Image-extrapolation)| SCI-3
 2020|ICIP 2020| Image Completion and Extrapolation with Contextual Cycle Consistency [[paper]](https://arxiv.org/pdf/2006.02620.pdf) |
 2019|ICCV 2019|Boundless: Generative Adversarial Networks for Image Extension [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Teterwak_Boundless_Generative_Adversarial_Networks_for_Image_Extension_ICCV_2019_paper.pdf) [[code]](https://github.com/recong/Boundless-in-Pytorch)|
 2019|ICCV 2019|Very Long Natural Scenery Image Prediction by Outpainting [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Very_Long_Natural_Scenery_Image_Prediction_by_Outpainting_ICCV_2019_paper.pdf) [[code]](https://github.com/z-x-yang/NS-Outpainting)|LSTM
