@@ -47,7 +47,7 @@ Place2 (free-form) | l1 err.=9.1% l2 err.=1.6% | SN-PatchGAN | Free-Form Image I
 ## Deep-Learning-based Extrapolation Methods
 Year|Proceeding|Title|Comment
 --|:--:|:--:|:--
-2021|WACV 2021| Painting Outside as Inside: Edge Guided Image Outpainting via Bidirectional Rearrangement with Progressive Step Learning [[paper]](https://arxiv.org/pdf/2010.01810.pdf) [code](https://github.com/GODGANG4885/Painting_Outside_as_Inside-POAI-)|
+2021|WACV 2021| Painting Outside as Inside: Edge Guided Image Outpainting via Bidirectional Rearrangement with Progressive Step Learning [[paper]](https://arxiv.org/pdf/2010.01810.pdf) [[code]](https://github.com/GODGANG4885/Painting_Outside_as_Inside-POAI-)|
 2021|WACV 2021| DeepCFL: Deep Contextual Features Learning from a Single Image [[paper]](https://arxiv.org/pdf/2011.03712.pdf)| InGAN
 2020|ECCV 2020|Spiral Generative Network for Image Extrapolation [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640681.pdf) [[Springer]](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_41) [[code]](https://github.com/zhenglab/spiralnet)|
 2020|CVPR 2020|Semantic Pyramid for Image Generation [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Shocher_Semantic_Pyramid_for_Image_Generation_CVPR_2020_paper.pdf) [[code]](https://github.com/rosinality/semantic-pyramid-pytorch)|Re-painting
