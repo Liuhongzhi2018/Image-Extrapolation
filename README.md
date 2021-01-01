@@ -294,7 +294,7 @@ Year|Proceeding|Title|Comment
 2019|arXiv:1809.06222v3  |  GANs for Medical Image Analysis [[paper]](https://arxiv.org/pdf/1809.06222.pdf) [[link]](http://livingreview.in.tum.de/GANs_for_Medical_Applications/)| Medical
 
 
-# Related Link
+# Related Link 
 
 [ICCV 2019](http://openaccess.thecvf.com/ICCV2019.py)
 
