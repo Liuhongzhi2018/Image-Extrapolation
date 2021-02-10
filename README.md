@@ -288,11 +288,15 @@ Year|Proceeding|Title|Comment
 
 # Interesting Applications of GAN
 
+Year|Proceeding|Title|Comment
+--|:--:|:--:|:--
 2019|arXiv:1903.10146v1 | PI-REC: Progressive Image Reconstruction Network With Edge and ColorDomain [[paper]](https://arxiv.org/pdf/1903.10146.pdf) [[code]](https://github.com/youyuge34/PI-REC)| edge2image
 
 
 # The Survey of GAN
 
+Year|Proceeding|Title|Comment
+--|:--:|:--:|:--
 2020|arXiv:1906.01529v5 | Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy [[paper]](https://arxiv.org/pdf/1906.01529.pdf)| Overview
 2019|arXiv:1809.06222v3  |  GANs for Medical Image Analysis [[paper]](https://arxiv.org/pdf/1809.06222.pdf) [[link]](http://livingreview.in.tum.de/GANs_for_Medical_Applications/)| Medical
 
