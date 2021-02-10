@@ -319,7 +319,11 @@ Year|Proceeding|Title|Comment
 
 [ICML 2019](https://icml.cc/Conferences/2019/Schedule?type=Poster)
 
-[AAAI 2019]( https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)
+[AAAI 2019](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)
+
+[WACV 2021](https://openaccess.thecvf.com/WACV2021)
+
+[WACV 2020](https://openaccess.thecvf.com/WACV2020)
 
 [IJCAI 2019](https://www.ijcai19.org/accepted-papers.html)
 
