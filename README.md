@@ -195,6 +195,7 @@ Year|Proceeding|Title|Comment
 2020|ECCVW 2020 (AIM 2020)| AIM 2020 Challenge on Image Extreme Inpainting [[paper]](https://arxiv.org/pdf/2010.01110.pdf) [[code]](https://github.com/vglsd/AIM2020-Image-Inpainting-Challenge) [[webpage]](http://www.vision.ee.ethz.ch/aim20/) | workshop
 2020|ECCVW 2020 | Image Fine-grained Inpainting [[paper]](https://arxiv.org/pdf/2002.02609.pdf) [[code]](https://github.com/Zheng222/DMFN)  | 1st
 2020|ECCVW 2020 | DeepGIN: Deep Generative Inpainting Networkfor Extreme Image Inpainting [[paper]](https://arxiv.org/pdf/2008.07173.pdf) [[code]](https://github.com/rlct1/DeepGIN) | 9th
+2020|ACM MM 2020 | Image Inpainting Based on Multi-frequency Probabilistic Inference Model [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413891) | 
 2021|WACV 2021 | Hyperrealistic Image Inpainting With Hypergraphs  [[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Wadhwa_Hyperrealistic_Image_Inpainting_With_Hypergraphs_WACV_2021_paper.pdf) [[code]](https://github.com/GouravWadhwa/Hypergraphs-Image-Inpainting) |
 2021|WACV 2021 | Multi-Level Generative Chaotic Recurrent Network for Image Inpainting [[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Chen_Multi-Level_Generative_Chaotic_Recurrent_Network_for_Image_Inpainting_WACV_2021_paper.pdf) |
 2021|WACV 2021 | R-MNet: A Perceptual Adversarial Network for Image Inpainting  [[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Jam_R-MNet_A_Perceptual_Adversarial_Network_for_Image_Inpainting_WACV_2021_paper.pdf) [[code]](https://github.com/Jireh-Jam/R-MNet-Inpainting-keras) | 
@@ -318,6 +319,8 @@ Year|Proceeding|Title|Comment
 [ECCV 90-2018](https://link.springer.com/conference/eccv)
 
 [NeurlPS 1988-2019](http://papers.nips.cc/)
+
+[ACM MM 2020](https://dl.acm.org/doi/proceedings/10.1145/3394171#issue-downloads)
 
 [ICLR 2019](https://iclr.cc/Conferences/2019/Schedule?type=Poster)
 
