@@ -47,6 +47,7 @@ Place2 (free-form) | l1 err.=9.1% l2 err.=1.6% | SN-PatchGAN | Free-Form Image I
 ## Deep-Learning-based Extrapolation Methods
 Year|Proceeding|Title|Comment
 --|:--:|:--:|:--
+2021|CVPR 2021| OCONet: Image Extrapolation by Object Completion [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Bowen_OCONet_Image_Extrapolation_by_Object_Completion_CVPR_2021_paper.html)|
 2021|WACV 2021| Painting Outside as Inside: Edge Guided Image Outpainting via Bidirectional Rearrangement with Progressive Step Learning [[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Kim_Painting_Outside_As_Inside_Edge_Guided_Image_Outpainting_via_Bidirectional_WACV_2021_paper.pdf) [[code]](https://github.com/GODGANG4885/Painting_Outside_as_Inside-POAI-)|
 2021|WACV 2021| DeepCFL: Deep Contextual Features Learning from a Single Image [[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Mastan_DeepCFL_Deep_Contextual_Features_Learning_From_a_Single_Image_WACV_2021_paper.pdf)| InGAN
 2020|ECCV 2020|Spiral Generative Network for Image Extrapolation [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640681.pdf) [[Springer]](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_41) [[code]](https://github.com/zhenglab/spiralnet)|
